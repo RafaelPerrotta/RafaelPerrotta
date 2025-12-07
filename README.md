@@ -37,7 +37,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 🧠 Modelos de Paradigmas
+## 🧠 Modelos de Paradigmas de Programação
 - Paradigma Imperativo
   - Paradigma Procedural
   - Paradigma Orientado a Objetos
