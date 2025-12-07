@@ -152,9 +152,10 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ## 2. Matemática
 
 ### 2.1 Matemática Pura
+- Teoria Algorítmica da Informação
+  - Complexidade de Kolmogorov
 - Teoria da Computação
   - Linguagens Formais e Autômatos
-  - Complexidade de Kolmogorov
   - Teoria das Categorias
 - Lógica Matemática
   - Lógica de Predicados
@@ -167,11 +168,11 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ### 2.2 Matemática Aplicada
 - Teoria das Probabilidades
 - Teoria dos Jogos
+- Teoria do Prospecto
 - Matemática Financeira
 - Engenharia Econômica
 - Pesquisa Operacional
 - Bioinformática
-- Teoria do Prospecto
 
 ---
 
