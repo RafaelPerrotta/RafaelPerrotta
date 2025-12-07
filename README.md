@@ -97,14 +97,14 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 🗄️ Ferramentas de Banco de Dados
+## 🗄️ Ferramentas de Modelagem de Banco de Dados
 - MySQL Workbench
 - MariaDB
 - SQL
 
 ---
 
-## Ferramentas de Modelagem UML (Unified Modeling Language)
+## 📐 Ferramentas de Modelagem UML (Unified Modeling Language)
 - Enterprise Architect (Sparx Systems)
 - Visual Paradigm
 - StarUML
@@ -245,7 +245,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Música (heavy metal, power metal, progressive metal, thrash metal, death metal, doom metal, white metal, black metal, gothic metal,
 - progressive rock, gothic rock, classic rock, indie rock, darkwave, coldwave, dungeon synth)
 - Música (cool jazz, bebop, hard bop, free jazz, fusion)
-- Workstation Roland/Korg
+- Workstation (roland, korg)
 - Commodore 64
 - Hackintosh
 - Aeromodelismo
@@ -255,3 +255,6 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Psicologia (Carl Jung)
 - Psicanálise (Jacques Lacan)
 - Mixagem e masterização usando Digital Audio Workstation
+- Boliche
+- Tênis de Mesa
+- Botânica
