@@ -14,3 +14,224 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👨‍💻 Perfil Profissional
+
+---
+
+## 📌 Sobre
+Profissional com atuação em **Ciência da Computação**, **Ciência de Dados**, **Inteligência Artificial** e **Sistemas Embarcados**.
+
+---
+
+## 🧠 Linguagens de Programação
+- Lua
+- Python
+- C
+- C++
+- R
+- Prolog
+- MATLAB
+- GNU Octave
+- Haskell
+
+---
+
+## 🤖 Ferramentas de Inteligência Artificial
+- TensorFlow
+- PyTorch
+- Keras
+- Scikit-learn
+- XGBoost
+- LightGBM
+- CatBoost
+- HuggingFace
+- OpenAI
+
+---
+
+## 📊 Ferramentas de Ciência de Dados
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Excel
+- Power BI
+- Google Data Studio
+
+---
+
+## ⚙️ Ferramentas de Pesquisa Operacional
+- Gurobi
+- CPLEX
+- OR-Tools
+- PuLP
+- Pyomo
+- CVXPY
+- GLPK
+- LP Solve IDE
+- FICO Xpress
+- Lingo
+
+---
+
+## 📅 Ferramentas de Gerenciamento de Projetos
+- Monday.com
+- Microsoft Project Project
+- GitHub Projects
+- GitLab
+
+---
+
+## 🧪 Ferramentas de Computação Quântica
+- Qiskit
+- QuTiP
+- Cirq
+- Pennylane
+- Amazon Braket
+- Rigetti Forest
+- D-Wave Ocean
+- Quantum Inspire
+
+---
+
+## 🗄️ Ferramentas de Banco de Dados
+- MySQL
+- MariaDB
+
+---
+
+## 🖥️ Plataformas e Ambientes
+- PyCharm
+- Visual Studio Code
+- IDLE
+- Spyder
+- Jupyter Notebook
+- Anaconda
+- Google Colab
+- Git
+- GitHub
+- Arduino IDE
+- PlatformIO
+- Embarcadero
+- Code::Blocks
+
+**Distribuições Linux:**  
+- Fedora  
+- Debian  
+- Kali Linux
+
+**Windows:**  
+- Windows 95/98/XP/7/8/8.1/10/11
+
+---
+
+## 📝 Ferramentas de Documentação / Escrita Científica
+- LaTeX
+- Markdown
+- Overleaf
+
+---
+
+# 🧪 Áreas de Interesse
+
+---
+
+## 1. Ciências Naturais e Físicas
+- Cosmologia
+- Astronomia
+- Astrofísica
+- Climatologia
+- Meteorologia
+- Física Computacional  
+  - Computação Quântica
+
+---
+
+## 2. Matemática
+
+### 2.1 Matemática Pura
+- Teoria da Computação
+  - Linguagens Formais e Autômatos
+  - Complexidade de Kolmogorov
+  - Teoria das Categorias
+- Lógica Matemática
+  - Lógica de Predicados
+  - Lógica Nebulosa
+- Teoria dos Conjuntos
+- Teoria dos Anéis
+- Teoria da Informação
+- Teoria dos Grafos
+
+### 2.2 Matemática Aplicada
+- Teoria das Probabilidades
+- Teoria dos Jogos
+- Matemática Financeira
+- Engenharia Econômica
+- Pesquisa Operacional
+- Bioinformática
+- Teoria do Prospecto
+
+---
+
+## 3. Inteligência Artificial
+- Inteligência Artificial
+  - Aprendizado de Máquina
+  - Sistemas Especialistas
+  - Algoritmos Evolutivos / Genéticos
+  - Xadrez Computacional
+
+---
+
+## 4. Engenharias
+- Engenharia de Software
+- Engenharia de Telecomunicações
+- Redes de Computadores
+- Segurança da Informação
+  - Segurança Cibernética
+  - Direito Digital
+  - Lei Geral de Proteção de Dados
+- Sistemas Embarcados
+  - Microcontroladores (Arduino, ESP32, STM32)
+- Engenharia Acústica
+- Engenharia de Som
+- Veículos Aéreos Não Tripulados (Drones)
+- Modelagem e Simulação de Veículos Aéreos em Pequena Escala
+
+---
+
+## 5. Ciências Aplicadas e Mercados
+- Mercado Financeiro
+  - Mercado de Capitais
+    - Ações
+    - Debêntures
+    - Fundos de Investimento
+  - Mercado Futuro e Derivativos
+    - Commodities e Contratos Futuros de Produtos Básicos
+    - Contratos de Taxas, Índices e Criptomoedas Derivativas
+  - Mercado de Criptomoedas e Ativos Digitais
+  - Análise Financeira
+  
+---
+
+## Hobbies
+- Role Playing Game
+- Real-Time Strategy
+- Real-Time Tactic
+- Turn-Based Strategy
+- Turn-Based Tactic
+- Xadrez
+- Música Erudita (barroco, classicismo, romantismo)
+- Música (heavy metal, death metal, power metal, thrash metal, gothic metal, doom metal, progressive metal, black metal
+- progressive rock, gothic rock, classic rock, darkwave, coldwave, dungeon synth)
+- Workstation Roland/Korg
+- Commodore 64
+- Hackintosh
+- Aeromodelismo
+- Drones
+- Cinema (novelle vague, expressionismo alemão, noir, giallo, terror, slasher)
+- Literatura (russa, alemã, inglesa, norte-americana)
+- Psicologia
+- Psicanálise (Lacan, Jung)
+- Mixagem e masterização usando Digital Audio Workstation
