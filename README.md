@@ -33,15 +33,17 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - MATLAB
 - GNU Octave
 - Haskell
+- AMPL
 
 ---
 
-## Paradigmas de Programação
+## 🧠 Paradigmas de Programação
 - Paradigma Imperativo
   - Paradgima Procedural
   - Paradigma Orientado a Objetos
   - Paradigma Estruturado
 - Paradigma Declarativo
+  - Paradigma Funcional
   - Paradigma Lógico
   - Paradigma Consultas/Base de Dados
 
@@ -76,7 +78,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ## ⚙️ Ferramentas de Pesquisa Operacional
 - Gurobi
-- CPLEX
+- CPLEX Optimization Studio
 - OR-Tools
 - PuLP
 - Pyomo
@@ -87,7 +89,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## Métodos de Otimização
+## ⚙️ Métodos de Otimização Matemática
 - Programação Linear
 - Programação Linear Inteira
 - Programação Linear Inteira Binária
@@ -127,7 +129,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Visual Paradigm
 - StarUML
 - Astah
-- Lucidchart (online)
+- Lucidchart
 
 ---
 
@@ -272,7 +274,9 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Literatura (russa, alemã, inglesa, norte-americana)
 - Psicologia (Carl Jung)
 - Psicanálise (Jacques Lacan)
-- Mixagem e masterização usando Digital Audio Workstation
+- Mixagem, masterização e engenharia de som usando Digital Audio Workstation
 - Boliche
 - Tênis de Mesa
 - Botânica
+
+---
