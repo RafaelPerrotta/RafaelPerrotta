@@ -37,7 +37,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 🧠 Paradigmas de Programação
+## 🧠 Modelos de Paradigmas
 - Paradigma Imperativo
   - Paradgima Procedural
   - Paradigma Orientado a Objetos
@@ -102,6 +102,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Microsoft Project
 - GitHub Projects
 - GitLab
+- Project Management Body of Knowledge
 
 ---
 
