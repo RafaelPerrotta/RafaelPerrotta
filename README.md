@@ -46,6 +46,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - CatBoost
 - HuggingFace
 - OpenAI
+- Weka
 
 ---
 
@@ -97,8 +98,24 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ---
 
 ## 🗄️ Ferramentas de Banco de Dados
-- MySQL
+- MySQL Workbench
 - MariaDB
+
+---
+
+## Ferramentas de Modelagem UML (Unified Modeling Language)
+- Enterprise Architect (Sparx Systems)
+- Visual Paradigm
+- StarUML
+- Astah
+- Lucidchart (online)
+
+---
+
+## 📝 Ferramentas de Documentação / Escrita Científica
+- LaTeX
+- Markdown
+- Overleaf
 
 ---
 
@@ -116,6 +133,8 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - PlatformIO
 - Embarcadero
 - Code::Blocks
+- SWI-Prolog
+- RStudio
 
 **Distribuições Linux:**  
 - Fedora  
@@ -124,13 +143,6 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 **Windows:**  
 - Windows 95/98/XP/7/8/8.1/10/11
-
----
-
-## 📝 Ferramentas de Documentação / Escrita Científica
-- LaTeX
-- Markdown
-- Overleaf
 
 ---
 
@@ -221,7 +233,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
   
 ---
 
-## Hobbies
+## 🎯 Hobbies
 - Role Playing Game
 - Real-Time Strategy
 - Real-Time Tactic
