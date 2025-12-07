@@ -89,7 +89,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## ⚙️ Métodos de Otimização Matemática
+## ⚙️ Técnicas de Otimização Matemática
 - Programação Linear
 - Programação Linear Inteira
 - Programação Linear Inteira Binária
