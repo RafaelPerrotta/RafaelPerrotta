@@ -263,8 +263,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Turn-Based Tactic
 - Xadrez
 - Música Erudita (barroco, classicismo, romantismo)
-- Música (heavy metal, power metal, progressive metal, thrash metal, death metal, doom metal, white metal, black metal, gothic metal,
-- progressive rock, gothic rock, classic rock, indie rock, darkwave, coldwave, dungeon synth)
+- Música (heavy metal, power metal, progressive metal, thrash metal, death metal, doom metal, white metal, black metal, gothic metal, progressive rock, gothic rock, classic rock, indie rock, darkwave, coldwave, dungeon synth)
 - Música (cool jazz, bebop, hard bop, free jazz, fusion)
 - Workstation (roland, korg)
 - Commodore 64
