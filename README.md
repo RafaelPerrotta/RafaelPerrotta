@@ -185,14 +185,11 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 4. Engenharias
+## 4. Engenharia
 - Engenharia de Software
 - Engenharia de Telecomunicações
 - Redes de Computadores
-- Segurança da Informação
-  - Segurança Cibernética
-  - Direito Digital
-  - Lei Geral de Proteção de Dados
+  - Comunicação de Dados
 - Sistemas Embarcados
   - Microcontroladores (Arduino, ESP32, STM32)
 - Engenharia Acústica
@@ -202,7 +199,15 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 5. Ciências Aplicadas e Mercados
+## 5. Segurança e Privacidade
+- Segurança da Informação
+  - Segurança Cibernética
+  - Direito Digital
+  - Lei Geral de Proteção de Dados
+
+---
+
+## 6. Ciências Aplicadas e Mercados
 - Mercado Financeiro
   - Mercado de Capitais
     - Ações
