@@ -224,8 +224,9 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Turn-Based Tactic
 - Xadrez
 - Música Erudita (barroco, classicismo, romantismo)
-- Música (heavy metal, death metal, power metal, thrash metal, gothic metal, doom metal, progressive metal, black metal
-- progressive rock, gothic rock, classic rock, darkwave, coldwave, dungeon synth)
+- Música (heavy metal, power metal, progressive metal, thrash metal, death metal, doom metal, white metal, black metal, gothic metal,
+- progressive rock, gothic rock, classic rock, indie rock, darkwave, coldwave, dungeon synth)
+- Música (cool jazz, bebop, hard bop, free jazz, fusion)
 - Workstation Roland/Korg
 - Commodore 64
 - Hackintosh
@@ -233,6 +234,6 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Drones
 - Cinema (novelle vague, expressionismo alemão, noir, giallo, terror, slasher)
 - Literatura (russa, alemã, inglesa, norte-americana)
-- Psicologia
-- Psicanálise (Lacan, Jung)
+- Psicologia (Carl Jung)
+- Psicanálise (Jacques Lacan)
 - Mixagem e masterização usando Digital Audio Workstation
