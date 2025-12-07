@@ -39,7 +39,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ## 🧠 Modelos de Paradigmas
 - Paradigma Imperativo
-  - Paradgima Procedural
+  - Paradigma Procedural
   - Paradigma Orientado a Objetos
   - Paradigma Estruturado
 - Paradigma Declarativo
