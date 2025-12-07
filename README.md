@@ -78,7 +78,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ## 📅 Ferramentas de Gerenciamento de Projetos
 - Monday.com
-- Microsoft Project Project
+- Microsoft Project
 - GitHub Projects
 - GitLab
 
