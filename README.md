@@ -36,6 +36,17 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
+## Paradigmas de Programação
+- Paradigma Imperativo
+  - Paradgima Procedural
+  - Paradigma Orientado a Objetos
+  - Paradigma Estruturado
+- Paradigma Declarativo
+  - Paradigma Lógico
+  - Paradigma Consultas/Base de Dados
+
+---
+
 ## 🤖 Ferramentas de Inteligência Artificial
 - TensorFlow
 - PyTorch
@@ -69,11 +80,18 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - OR-Tools
 - PuLP
 - Pyomo
-- CVXPY
 - GLPK
 - LP Solve IDE
 - FICO Xpress
 - Lingo
+
+---
+
+## Métodos de Otimização
+- Programação Linear
+- Programação Linear Inteira
+- Programação Linear Inteira Binária
+- Programação Linear Inteira Mista
 
 ---
 
