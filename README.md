@@ -100,6 +100,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ## 🗄️ Ferramentas de Banco de Dados
 - MySQL Workbench
 - MariaDB
+- SQL
 
 ---
 
