@@ -278,5 +278,6 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Boliche
 - Tênis de Mesa
 - Botânica
+- História (antiguidade clássica, antiguidade tardia, alta idade média, baixa idade média)
 
 ---
