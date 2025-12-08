@@ -46,6 +46,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
   - Paradigma Funcional
   - Paradigma Lógico
   - Paradigma Consultas/Base de Dados
+- Paradigma Genérico
 
 ---
 
