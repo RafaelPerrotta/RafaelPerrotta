@@ -173,14 +173,15 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ---
 
 ## 1. Ciências Naturais e Físicas
-- Cosmologia
 - Astronomia
+- Cosmologia
 - Astrofísica
 - Climatologia
 - Meteorologia
 - Física Computacional  
   - Computação Quântica
   - Fluido Dinâmica Computacional
+  - Aerodinâmica Computacional
 
 ---
 
