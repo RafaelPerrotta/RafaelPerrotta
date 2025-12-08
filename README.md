@@ -243,6 +243,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
   - Segurança Cibernética
   - Direito Digital
   - Lei Geral de Proteção de Dados
+  - Regulamento Geral de Proteção de Dados
 
 ---
 
