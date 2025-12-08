@@ -223,7 +223,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 ## 4. Engenharia
 - Engenharia de Software
 - Engenharia de Telecomunicações
-- Redes de Computadores
+- Engenharia Elétrica
   - Comunicação de Dados
 - Sistemas Embarcados
   - Microcontroladores (Arduino, ESP32, STM32)
