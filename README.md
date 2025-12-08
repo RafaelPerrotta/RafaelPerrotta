@@ -195,6 +195,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
   - Linguagens Formais e Autômatos
   - Teoria das Categorias
 - Lógica Matemática
+  - Lógica Proprosicional
   - Lógica de Predicados
   - Lógica Nebulosa
 - Teoria dos Conjuntos
