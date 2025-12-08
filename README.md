@@ -215,6 +215,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
   - Aprendizado de Máquina
   - Sistemas Especialistas
   - Algoritmos Evolutivos / Genéticos
+  - Algorithmic Warfare Cross Functional Team
   - Xadrez Computacional
 
 ---
