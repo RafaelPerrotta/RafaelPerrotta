@@ -180,6 +180,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - Meteorologia
 - Física Computacional  
   - Computação Quântica
+  - Fluido Dinâmica Computacional
 
 ---
 
