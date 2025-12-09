@@ -261,6 +261,18 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 
 ---
 
+## 7. Cognitive Science
+- Cognitive Science
+  - Cognitive Psychology
+  - Philosophy of Mind
+  - Cognitive Neuroscience
+  - Computational Cognition
+  - Neuropsychology
+  - Linguistics
+  - Artificial Neural Systems
+
+---
+
 ## 🎯 Hobbies
 - Role-Playing Games
 - Board Wargame
