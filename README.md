@@ -199,7 +199,11 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
   - Predicate Logic
   - Fuzzy Logic
 - Set Theory
-- Ring Theory
+- Discrete Mathematics
+- Abstract Algebra
+  - Group Theory
+  - Ring Theory
+  - Field Theory
 - Information Theory
 - Graph Theory
 
