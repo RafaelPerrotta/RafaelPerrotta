@@ -182,7 +182,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Computational Physics
   - Quantum Computing
   - Computational Fluid Dynamics
-  - Computational Aerodynamics
+    - Computational Aerodynamics
 
 ---
 
