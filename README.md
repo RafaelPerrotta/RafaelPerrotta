@@ -262,7 +262,8 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 ---
 
 ## 🎯 Hobbies
-- Role-Playing Games (RPG)
+- Role-Playing Games
+- Board Wargame
 - Real-Time Strategy
 - Real-Time Tactics
 - Turn-Based Strategy
@@ -285,5 +286,6 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Table Tennis
 - Botany
 - History (Classical Antiquity, Late Antiquity, Early Middle Ages, Late Middle Ages)
+- Study Languages ​​(English, Latin)
 
 ---
