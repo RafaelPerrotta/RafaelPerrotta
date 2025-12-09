@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 Perfil
+# 👨‍💻 Profile
 
 ---
 
-## 📌 Sobre
-Profissional com atuação em **Ciência da Computação**, **Ciência de Dados**, **Inteligência Artificial** e **Sistemas Embarcados**.
+## 📌 About
+Professional with experience in **Computer Science**, **Data Science**, **Artificial Intelligence**, and **Embedded Systems**.
 
 ---
 
-## 🧠 Linguagens de Programação
+## 🧠 Programming Languages
 - Lua
 - Python
 - C
@@ -37,20 +37,20 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 🧠 Modelos de Paradigmas de Programação
-- Paradigma Imperativo
-  - Paradigma Procedural
-  - Paradigma Orientado a Objetos
-  - Paradigma Estruturado
-- Paradigma Declarativo
-  - Paradigma Funcional
-  - Paradigma Lógico
-  - Paradigma Consultas/Base de Dados
-- Paradigma Genérico
+## 🧠 Programming Paradigms
+- Imperative Paradigm
+  - Procedural Paradigm
+  - Object-Oriented Paradigm
+  - Structured Paradigm
+- Declarative Paradigm
+  - Functional Paradigm
+  - Logical Paradigm
+  - Query/Database Paradigm
+- Generic Paradigm
 
 ---
 
-## 🤖 Ferramentas de Inteligência Artificial
+## 🤖 Artificial Intelligence Tools
 - TensorFlow
 - PyTorch
 - Keras
@@ -58,13 +58,13 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - XGBoost
 - LightGBM
 - CatBoost
-- HuggingFace
+- Hugging Face
 - OpenAI
 - Weka
 
 ---
 
-## 📊 Ferramentas de Ciência de Dados
+## 📊 Data Science Tools
 - Pandas
 - NumPy
 - SciPy
@@ -77,7 +77,7 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## ⚙️ Ferramentas de Pesquisa Operacional
+## ⚙️ Operations Research Tools
 - Gurobi
 - CPLEX Optimization Studio
 - OR-Tools
@@ -90,28 +90,28 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## ⚙️ Técnicas de Otimização Matemática
-- Programação Linear
-- Programação Linear Inteira
-- Programação Linear Inteira Binária
-- Programação Linear Inteira Mista
+## ⚙️ Mathematical Optimization Techniques
+- Linear Programming
+- Integer Linear Programming
+- Binary Integer Linear Programming
+- Mixed Integer Linear Programming
 
 ---
 
-## 📅 Ferramentas de Gerenciamento de Projetos
+## 📅 Project Management Tools
 - Monday.com
 - Microsoft Project
 - GitHub Projects
 - GitLab
-- Project Management Body of Knowledge
+- Project Management Body of Knowledge (PMBOK)
 
 ---
 
-## 🧪 Ferramentas de Computação Quântica
+## 🧪 Quantum Computing Tools
 - Qiskit
 - QuTiP
 - Cirq
-- Pennylane
+- PennyLane
 - Amazon Braket
 - Rigetti Forest
 - D-Wave Ocean
@@ -119,14 +119,14 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 🗄️ Ferramentas de Modelagem de Banco de Dados
+## 🗄️ Database Modeling Tools
 - MySQL
 - MariaDB
 - SQL
 
 ---
 
-## 📐 Ferramentas de Modelagem UML (Unified Modeling Language)
+## 📐 UML (Unified Modeling Language) Modeling Tools
 - Enterprise Architect (Sparx Systems)
 - Visual Paradigm
 - StarUML
@@ -135,14 +135,14 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 
 ---
 
-## 📝 Ferramentas de Documentação / Escrita Científica
+## 📝 Documentation / Scientific Writing Tools
 - LaTeX
 - Markdown
 - Overleaf
 
 ---
 
-## 🖥️ Plataformas e Ambientes
+## 🖥️ Platforms and Environments
 - PyCharm
 - Visual Studio Code
 - IDLE
@@ -159,131 +159,131 @@ Profissional com atuação em **Ciência da Computação**, **Ciência de Dados*
 - SWI-Prolog
 - RStudio
 
-**Distribuições Linux:**  
-- Fedora  
-- Debian  
+**Linux Distributions:**
+- Fedora
+- Debian
 - Kali Linux
 
-**Windows:**  
+**Windows:**
 - Windows 95/98/XP/7/8/8.1/10/11
 
 ---
 
-# 🧪 Áreas de Interesse
+# 🧪 Areas of Interest
 
 ---
 
-## 1. Ciências Naturais e Físicas
-- Astronomia
-- Cosmologia
-- Astrofísica
-- Climatologia
-- Meteorologia
-- Física Computacional  
-  - Computação Quântica
-  - Fluido Dinâmica Computacional
-  - Aerodinâmica Computacional
+## 1. Natural and Physical Sciences
+- Astronomy
+- Cosmology
+- Astrophysics
+- Climatology
+- Meteorology
+- Computational Physics
+  - Quantum Computing
+  - Computational Fluid Dynamics
+  - Computational Aerodynamics
 
 ---
 
-## 2. Matemática
+## 2. Mathematics
 
-### 2.1 Matemática Pura
-- Teoria Algorítmica da Informação
-  - Complexidade de Kolmogorov
-- Teoria da Computação
-  - Linguagens Formais e Autômatos
-  - Teoria das Categorias
-- Lógica Matemática
-  - Lógica Proprosicional
-  - Lógica de Predicados
-  - Lógica Nebulosa
-- Teoria dos Conjuntos
-- Teoria dos Anéis
-- Teoria da Informação
-- Teoria dos Grafos
+### 2.1 Pure Mathematics
+- Algorithmic Information Theory
+  - Kolmogorov Complexity
+- Theory of Computation
+  - Formal Languages and Automata
+  - Category Theory
+- Mathematical Logic
+  - Propositional Logic
+  - Predicate Logic
+  - Fuzzy Logic
+- Set Theory
+- Ring Theory
+- Information Theory
+- Graph Theory
 
-### 2.2 Matemática Aplicada
-- Teoria das Probabilidades
-- Teoria dos Jogos
-- Teoria do Prospecto
-- Matemática Financeira
-- Engenharia Econômica
-- Pesquisa Operacional
-- Bioinformática
+### 2.2 Applied Mathematics
+- Probability Theory
+- Game Theory
+- Prospect Theory
+- Financial Mathematics
+- Economic Engineering
+- Operations Research
+- Bioinformatics
 
 ---
 
-## 3. Inteligência Artificial
-- Inteligência Artificial
-  - Aprendizado de Máquina
-  - Sistemas Especialistas
-  - Algoritmos Evolutivos / Genéticos
+## 3. Artificial Intelligence
+- Artificial Intelligence
+  - Machine Learning
+  - Expert Systems
+  - Evolutionary / Genetic Algorithms
   - Algorithmic Warfare Cross Functional Team
-  - Xadrez Computacional
+  - Computer Chess
 
 ---
 
-## 4. Engenharia
-- Engenharia de Software
-- Engenharia de Telecomunicações
-- Engenharia Elétrica
-  - Comunicação de Dados
-- Sistemas Embarcados
-  - Microcontroladores (Arduino, ESP32, STM32)
-- Engenharia Acústica
-- Engenharia de Som
-- Veículos Aéreos Não Tripulados (Drones)
-- Modelagem e Simulação de Veículos Aéreos em Pequena Escala
+## 4. Engineering
+- Software Engineering
+- Telecommunications Engineering
+- Electrical Engineering
+  - Data Communications
+- Embedded Systems
+  - Microcontrollers (Arduino, ESP32, STM32)
+- Acoustic Engineering
+- Sound Engineering
+- Unmanned Aerial Vehicles (Drones)
+- Modeling and Simulation of Small-Scale Aerial Vehicles
 
 ---
 
-## 5. Segurança e Privacidade
-- Segurança da Informação
-  - Segurança Cibernética
-  - Direito Digital
-  - Lei Geral de Proteção de Dados
-  - Regulamento Geral de Proteção de Dados
+## 5. Security and Privacy
+- Information Security
+  - Cybersecurity
+  - Digital Law
+  - General Data Protection Law (LGPD)
+  - General Data Protection Regulation (GDPR)
 
 ---
 
-## 6. Ciências Aplicadas e Mercados
-- Mercado Financeiro
-  - Mercado de Capitais
-    - Ações
-    - Debêntures
-    - Fundos de Investimento
-  - Mercado Futuro e Derivativos
-    - Commodities e Contratos Futuros de Produtos Básicos
-    - Contratos de Taxas, Índices e Criptomoedas Derivativas
-  - Mercado de Criptomoedas e Ativos Digitais
-  - Análise Financeira
-  
+## 6. Applied Sciences and Markets
+- Financial Market
+  - Capital Market
+    - Stocks
+    - Debentures
+    - Investment Funds
+  - Futures and Derivatives Market
+    - Commodities and Futures Contracts
+    - Interest Rate, Index, and Cryptocurrency Derivatives
+  - Cryptocurrency and Digital Assets Market
+  - Financial Analysis
+
 ---
 
 ## 🎯 Hobbies
-- Role Playing Game
+- Role-Playing Games (RPG)
 - Real-Time Strategy
-- Real-Time Tactic
+- Real-Time Tactics
 - Turn-Based Strategy
-- Turn-Based Tactic
-- Xadrez
-- Música Erudita (barroco, classicismo, romantismo)
-- Música (heavy metal, power metal, progressive metal, thrash metal, death metal, doom metal, white metal, black metal, gothic metal, progressive rock, gothic rock, classic rock, indie rock, darkwave, coldwave, dungeon synth)
-- Música (cool jazz, bebop, hard bop, free jazz, fusion)
-- Workstation (roland, korg)
+- Turn-Based Tactics
+- Chess
+- Classical Music (Baroque, Classical, Romantic)
+- Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Darkwave, Coldwave, Dungeon Synth)
+- Music (Cool Jazz, Bebop, Hard Bop, Free Jazz, Fusion)
+- Workstations (Roland, Korg)
 - Commodore 64
 - Hackintosh
-- Aeromodelismo
+- Aeromodelling
 - Drones
-- Cinema (novelle vague, expressionismo alemão, noir, giallo, terror, slasher)
-- Literatura (russa, alemã, inglesa, norte-americana)
-- Psicologia (Carl Jung)
-- Psicanálise (Jacques Lacan)
-- Mixagem, masterização e engenharia de som usando Digital Audio Workstation
-- Boliche
-- Tênis de Mesa
-- Botânica
-- História (antiguidade clássica, antiguidade tardia, alta idade média, baixa idade média)
+- Cinema (Nouvelle Vague, German Expressionism, Noir, Giallo, Horror, Slasher)
+- Literature (Russian, German, English, North American)
+- Psychology (Carl Jung)
+- Psychoanalysis (Jacques Lacan)
+- Mixing, Mastering, and Sound Engineering using Digital Audio Workstations (DAW)
+- Bowling
+- Table Tennis
+- Botany
+- History (Classical Antiquity, Late Antiquity, Early Middle Ages, Late Middle Ages)
 
 ---
