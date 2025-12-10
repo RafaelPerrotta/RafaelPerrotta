@@ -28,6 +28,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Python
 - C
 - C++
+- Java
 - R
 - Prolog
 - MATLAB
