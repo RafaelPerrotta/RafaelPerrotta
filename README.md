@@ -159,6 +159,8 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Code::Blocks
 - SWI-Prolog
 - RStudio
+- SNES-IDE
+- NetBeans
 
 **Linux Distributions:**
 - Fedora
