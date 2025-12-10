@@ -34,6 +34,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - GNU Octave
 - Haskell
 - AMPL
+- Assembly
 
 ---
 
