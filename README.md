@@ -288,9 +288,11 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Real-Time Tactics
 - Turn-Based Strategy
 - Turn-Based Tactics
+- Reverse Engineering
+- Social Engineering
 - Chess
 - Kart
-- Classical Music (Baroque, Classicism, Romanticism)
+- Classical Music (Medieval, Renaissance, Baroque, Classicism, Romanticism)
 - Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Darkwave, Coldwave, Dungeon Synth)
 - Music (Cool Jazz, Bebop, Hard Bop, Free Jazz, Fusion)
 - Workstations (Roland, Korg)
