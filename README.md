@@ -282,7 +282,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 ---
 
 ## 🎯 Hobbies
-- Role-Playing Games
+- Role-Playing Game
 - Board Wargame
 - Real-Time Strategy
 - Real-Time Tactics
