@@ -307,5 +307,6 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Botany
 - History (Classical Antiquity, Late Antiquity, Early Middle Ages, Late Middle Ages)
 - Study Languages ​​(English, Latin)
+- Poetry
 
 ---
