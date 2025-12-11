@@ -290,7 +290,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Turn-Based Tactics
 - Chess
 - Kart
-- Classical Music (Baroque, Classical, Romantic)
+- Classical Music (Baroque, Classicism, Romanticism)
 - Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Darkwave, Coldwave, Dungeon Synth)
 - Music (Cool Jazz, Bebop, Hard Bop, Free Jazz, Fusion)
 - Workstations (Roland, Korg)
@@ -298,7 +298,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Hackintosh
 - Aeromodelling
 - Drones
-- Cinema (Nouvelle Vague, German Expressionism, Noir, Giallo, Horror, Slasher)
+- Cinema (Nouvelle Vague, German Expressionism, Noir, Giallo, Horror, Slasher, Dogma95, Russian)
 - Literature (Russian, German, English, North American)
 - Psychology (Carl Jung)
 - Psychoanalysis (Jacques Lacan)
@@ -308,6 +308,6 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Botany
 - History (Classical Antiquity, Late Antiquity, Early Middle Ages, Late Middle Ages)
 - Study Languages ​​(English, Latin)
-- Poetry
+- Poetry (English, German, North American)
 
 ---
