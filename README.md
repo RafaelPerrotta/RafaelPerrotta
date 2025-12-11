@@ -289,6 +289,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Turn-Based Strategy
 - Turn-Based Tactics
 - Chess
+- Kart
 - Classical Music (Baroque, Classical, Romantic)
 - Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Darkwave, Coldwave, Dungeon Synth)
 - Music (Cool Jazz, Bebop, Hard Bop, Free Jazz, Fusion)
