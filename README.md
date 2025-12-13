@@ -293,7 +293,7 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - Chess
 - Kart
 - Classical Music (Medieval, Renaissance, Baroque, Classicism, Romanticism)
-- Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Darkwave, Coldwave, Dungeon Synth)
+- Music (Heavy Metal, Power Metal, Progressive Metal, Thrash Metal, Death Metal, Doom Metal, White Metal, Black Metal, Gothic Metal, Progressive Rock, Gothic Rock, Classic Rock, Indie Rock, Post-Punk, Darkwave, Coldwave, Dungeon Synth)
 - Music (Cool Jazz, Bebop, Hard Bop, Free Jazz, Fusion)
 - Workstations (Roland, Korg)
 - Commodore 64
