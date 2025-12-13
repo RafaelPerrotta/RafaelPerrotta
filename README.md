@@ -61,7 +61,6 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 - LightGBM
 - CatBoost
 - Hugging Face
-- OpenAI
 - Weka
 
 ---
