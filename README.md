@@ -283,7 +283,6 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 ---
 
 ### 7. Cognitive Science
-![Cognitive%20Science](https://img.shields.io/badge/Cognitive%20Science-2563EB?style=for-the-badge)
 ![Cognitive%20Psychology](https://img.shields.io/badge/Cognitive%20Psychology-2563EB?style=for-the-badge)
 ![Philosophy%20of%20Mind](https://img.shields.io/badge/Philosophy%20of%20Mind-2563EB?style=for-the-badge)
 ![Cognitive%20Neuroscience](https://img.shields.io/badge/Cognitive%20Neuroscience-2563EB?style=for-the-badge)
