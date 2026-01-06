@@ -9,11 +9,11 @@ Professional with experience in **Computer Science**, **Data Science**, **Artifi
 ---
 
 ## 🌐 Contact and Professional Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-perrotta-36537839b/)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly&logoColor=white)](https://www.credly.com/users/rafael-perrotta-de-menezes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaelperrotta)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white)](https://wa.me/5521979814137)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&logoColor=white)](https://t.me/rafaelperrotta)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaelperrotta)
 
 ---
 
