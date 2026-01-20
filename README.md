@@ -28,6 +28,7 @@ Professional with experience in **Computer Science**, **Systems Analysis**, **Da
 ![Prolog](https://img.shields.io/badge/Prolog-2C2D72?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-2C2D72?style=for-the-badge)
 ![GNU Octave](https://img.shields.io/badge/GNU%20Octave-2C2D72?style=for-the-badge)
+![Scilab](https://img.shields.io/badge/Scilab-2C2D72?style=for-the-badge)
 ![Haskell](https://img.shields.io/badge/Haskell-2C2D72?style=for-the-badge&logo=haskell&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-2C2D72?style=for-the-badge&logo=julia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-2C2D72?style=for-the-badge&logo=fortran&logoColor=white)
