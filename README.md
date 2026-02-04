@@ -64,9 +64,9 @@ Professional with experience in **Computer Science**, **Systems Analysis**, **Da
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-FF6F00?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-FF6F00?style=for-the-badge)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-FF6F00?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
