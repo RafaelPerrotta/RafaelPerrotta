@@ -4,7 +4,7 @@ Rafael Perrotta
 ---
 
 ## 📌 About
-Professional with experience in **Computer Science**, **Systems Analysis**, **Data Science**.
+Professional with experience in **Computer Science**, **Systems Analysis**, and **Data Science**.
 
 ---
 
