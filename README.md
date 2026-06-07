@@ -8,7 +8,7 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 
 ---
 
-## Areas of Interest
+## 📌 Areas of Interest
 
 ---
 
