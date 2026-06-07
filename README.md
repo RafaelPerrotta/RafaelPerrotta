@@ -31,6 +31,25 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 - Astrophysics
 - Cosmology
 
+![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-4C1D95?style=for-the-badge)
+![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-4C1D95?style=for-the-badge)
+![Category%20Theory](https://img.shields.io/badge/Category%20Theory-4C1D95?style=for-the-badge)
+![Set%20Theory](https://img.shields.io/badge/Set%20Theory-4C1D95?style=for-the-badge)
+![Discrete%20Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-4C1D95?style=for-the-badge)
+![Abstract%20Algebra](https://img.shields.io/badge/Abstract%20Algebra-4C1D95?style=for-the-badge)
+![Group%20Theory](https://img.shields.io/badge/Group%20Theory-4C1D95?style=for-the-badge)
+![Ring%20Theory](https://img.shields.io/badge/Ring%20Theory-4C1D95?style=for-the-badge)
+![Field%20Theory](https://img.shields.io/badge/Field%20Theory-4C1D95?style=for-the-badge)
+![Information%20Theory](https://img.shields.io/badge/Information%20Theory-4C1D95?style=for-the-badge)
+![Graph%20Theory](https://img.shields.io/badge/Graph%20Theory-4C1D95?style=for-the-badge)
+![Probability%20Theory](https://img.shields.io/badge/Probability%20Theory-4C1D95?style=for-the-badge)
+![Game%20Theory](https://img.shields.io/badge/Game%20Theory-4C1D95?style=for-the-badge)
+![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-4C1D95?style=for-the-badge)
+![Operations%20Research](https://img.shields.io/badge/Operations%20Research-4C1D95?style=for-the-badge)
+![Cosmology](https://img.shields.io/badge/Cosmology-2563EB?style=for-the-badge)
+![Astrophysics](https://img.shields.io/badge/Astrophysics-2563EB?style=for-the-badge)
+![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2563EB?style=for-the-badge)
+
 ---
 
 ## 🌐 Contact and Professional Profiles
