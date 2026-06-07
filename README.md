@@ -8,6 +8,10 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 
 ---
 
+## Areas of Interest
+
+---
+
 ## 🌐 Contact and Professional Profiles
 [![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-Email-6001D2?logo=yahoo&logoColor=white)](mailto:rafaelperrotta@yahoo.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-perrotta-36537839b/)
