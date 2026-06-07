@@ -11,21 +11,17 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ## 📌 Areas of Interest
 - Teoria Algorítmica da Informação
 - Complexidade de Kolmogorov
-- Teoria da Computação
 - Análise de Complexidade de Tempo e Espaço
 - Linguagens Formais e Autômatos
-- Teoria das Categorias
-- Lógica Matemática
-- Lógica Proposicional
-- Lógica de Predicados
-- Lógica Fuzzy
-- Teoria dos Conjuntos
 - Matemática Discreta
 - Álgebra Abstrata
+- Teoria da Computação
+- Teoria da Informação
+- Teoria das Categorias
+- Teoria dos Conjuntos
 - Teoria dos Grupos
 - Teoria dos Anéis
 - Teoria dos Corpos
-- Teoria da Informação
 - Teoria dos Grafos
 
 ---
