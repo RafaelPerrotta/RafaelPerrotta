@@ -9,10 +9,14 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-->
-->
-->
-->
+Teoria da Informação Algorítmica
+Teoria da Computação
+Teoria das Categorias
+Teoria dos Tipos
+Teoria dos Grafos
+Teoria das Probabilidades
+Álgebra Abstrata
+Matemática Discreta
 
 ---
 
