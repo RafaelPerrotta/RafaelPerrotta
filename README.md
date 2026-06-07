@@ -9,26 +9,27 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-- Complexidade de Kolmogorov
-- Matemática Discreta
-- Álgebra Abstrata
-- Álgebra Linear
-- Computação Quântica
-- Astrofísica
-- Cosmologia
-- Pesquisa Operacional
-- Engenharia Econômica
-- Teoria da Computação
-- Teoria da Informação
-- Teoria das Categorias
-- Teoria das Probabilidades
-- Teoria dos Conjuntos
-- Teoria dos Grupos
-- Teoria dos Tipos
-- Teoria dos Anéis
-- Teoria dos Corpos
-- Teoria dos Grafos
-- Teoria dos Jogos
+- Set Theory
+- Logic
+- Type Theory
+- Discrete Mathematics
+- Abstract Algebra
+- Group Theory
+- Ring Theory
+- Field Theory
+- Category Theory
+- Linear Algebra
+- Graph Theory
+- Game Theory
+- Operations Research
+- Engineering Economics
+- Probability Theory
+- Information Theory
+- Kolmogorov Complexity
+- Computation Theory
+- Quantum Computing
+- Astrophysics
+- Cosmology
 
 ---
 
