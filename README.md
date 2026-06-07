@@ -9,7 +9,8 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-Set Theory Logic
+- Set Theory
+- Logic
 - Type Theory
 - Discrete Mathematics
 - Abstract Algebra
