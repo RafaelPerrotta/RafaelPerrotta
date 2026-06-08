@@ -96,124 +96,124 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📊 Data Science and Data Analytics Tools
-![Pandas](https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-2563EB?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2563EB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-2563EB?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-2563EB?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-2563EB?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google%20Data%20Studio](https://img.shields.io/badge/Google%20Data%20Studio-2563EB?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2C2D72?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-2C2D72?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2C2D72?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-2C2D72?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google%20Data%20Studio](https://img.shields.io/badge/Google%20Data%20Studio-2C2D72?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## ⚙️ Operations Research and Optimization Tools
-![Gurobi](https://img.shields.io/badge/Gurobi-16A34A?style=for-the-badge)
-![CPLEX](https://img.shields.io/badge/CPLEX%20Optimization%20Studio-16A34A?style=for-the-badge)
-![OR--Tools](https://img.shields.io/badge/OR--Tools-16A34A?style=for-the-badge&logo=google&logoColor=white)
-![PuLP](https://img.shields.io/badge/PuLP-16A34A?style=for-the-badge)
-![Pyomo](https://img.shields.io/badge/Pyomo-16A34A?style=for-the-badge)
-![GLPK](https://img.shields.io/badge/GLPK-16A34A?style=for-the-badge)
-![LP%20Solve](https://img.shields.io/badge/LP%20Solve%20IDE-16A34A?style=for-the-badge)
-![FICO%20Xpress](https://img.shields.io/badge/FICO%20Xpress-16A34A?style=for-the-badge)
-![Lingo](https://img.shields.io/badge/Lingo-16A34A?style=for-the-badge)
-![AMPL](https://img.shields.io/badge/AMPL-16A34A?style=for-the-badge)
+![Gurobi](https://img.shields.io/badge/Gurobi-2C2D72?style=for-the-badge)
+![CPLEX](https://img.shields.io/badge/CPLEX%20Optimization%20Studio-2C2D72?style=for-the-badge)
+![OR--Tools](https://img.shields.io/badge/OR--Tools-2C2D72?style=for-the-badge&logo=google&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-2C2D72?style=for-the-badge)
+![Pyomo](https://img.shields.io/badge/Pyomo-2C2D72?style=for-the-badge)
+![GLPK](https://img.shields.io/badge/GLPK-2C2D72?style=for-the-badge)
+![LP%20Solve](https://img.shields.io/badge/LP%20Solve%20IDE-2C2D72?style=for-the-badge)
+![FICO%20Xpress](https://img.shields.io/badge/FICO%20Xpress-2C2D72?style=for-the-badge)
+![Lingo](https://img.shields.io/badge/Lingo-2C2D72?style=for-the-badge)
+![AMPL](https://img.shields.io/badge/AMPL-2C2D72?style=for-the-badge)
 
 ---
 
 ## ⚙️ Mathematical Optimization Techniques
-![Continuous%20Linear%20Programming](https://img.shields.io/badge/Continuous%20Linear%20Programming-16A34A?style=for-the-badge)
-![Integer%20Linear%20Programming](https://img.shields.io/badge/Integer%20Linear%20Programming-16A34A?style=for-the-badge)
-![Binary%20Integer%20Linear%20Programming](https://img.shields.io/badge/Binary%20Integer%20Linear%20Programming-16A34A?style=for-the-badge)
-![Mixed%20Integer%20Linear%20Programming](https://img.shields.io/badge/Mixed%20Integer%20Linear%20Programming-16A34A?style=for-the-badge)
+![Continuous%20Linear%20Programming](https://img.shields.io/badge/Continuous%20Linear%20Programming-2C2D72?style=for-the-badge)
+![Integer%20Linear%20Programming](https://img.shields.io/badge/Integer%20Linear%20Programming-2C2D72?style=for-the-badge)
+![Binary%20Integer%20Linear%20Programming](https://img.shields.io/badge/Binary%20Integer%20Linear%20Programming-2C2D72?style=for-the-badge)
+![Mixed%20Integer%20Linear%20Programming](https://img.shields.io/badge/Mixed%20Integer%20Linear%20Programming-2C2D72?style=for-the-badge)
 
 ---
 
 ## 🧪 Quantum Computing Frameworks and Platforms
-![Qiskit](https://img.shields.io/badge/Qiskit-16A34A?style=for-the-badge&logo=ibm&logoColor=white)
-![QuTiP](https://img.shields.io/badge/QuTiP-16A34A?style=for-the-badge)
-![Cirq](https://img.shields.io/badge/Cirq-16A34A?style=for-the-badge&logo=google&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-16A34A?style=for-the-badge)
-![Amazon%20Braket](https://img.shields.io/badge/Amazon%20Braket-16A34A?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Rigetti%20Forest](https://img.shields.io/badge/Rigetti%20Forest-16A34A?style=for-the-badge)
-![D--Wave%20Ocean](https://img.shields.io/badge/D--Wave%20Ocean-16A34A?style=for-the-badge)
-![Quantum%20Inspire](https://img.shields.io/badge/Quantum%20Inspire-16A34A?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-2C2D72?style=for-the-badge&logo=ibm&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-2C2D72?style=for-the-badge)
+![Cirq](https://img.shields.io/badge/Cirq-2C2D72?style=for-the-badge&logo=google&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-2C2D72?style=for-the-badge)
+![Amazon%20Braket](https://img.shields.io/badge/Amazon%20Braket-2C2D72?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Rigetti%20Forest](https://img.shields.io/badge/Rigetti%20Forest-2C2D72?style=for-the-badge)
+![D--Wave%20Ocean](https://img.shields.io/badge/D--Wave%20Ocean-2C2D72?style=for-the-badge)
+![Quantum%20Inspire](https://img.shields.io/badge/Quantum%20Inspire-2C2D72?style=for-the-badge)
 
 ---
 
 ## 🗄️ Database Systems and Modeling Tools
-![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-0EA5E9?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-2C2D72?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2C2D72?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📅 Project Management and Collaboration Tools
-![Monday.com](https://img.shields.io/badge/Monday.com-0EA5E9?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-0EA5E9?style=for-the-badge&logo=gitlab&logoColor=white)
-![PMBOK](https://img.shields.io/badge/PMBOK-0EA5E9?style=for-the-badge)
+![Monday.com](https://img.shields.io/badge/Monday.com-2C2D72?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-2C2D72?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-2C2D72?style=for-the-badge&logo=gitlab&logoColor=white)
+![PMBOK](https://img.shields.io/badge/PMBOK-2C2D72?style=for-the-badge)
 
 ---
 
 ## 📐 UML (Unified Modeling Language) and Software Modeling Tools
-![Enterprise%20Architect](https://img.shields.io/badge/Enterprise%20Architect-0EA5E9?style=for-the-badge)
-![Visual%20Paradigm](https://img.shields.io/badge/Visual%20Paradigm-0EA5E9?style=for-the-badge)
-![StarUML](https://img.shields.io/badge/StarUML-0EA5E9?style=for-the-badge)
-![Astah](https://img.shields.io/badge/Astah-0EA5E9?style=for-the-badge)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-0EA5E9?style=for-the-badge)
+![Enterprise%20Architect](https://img.shields.io/badge/Enterprise%20Architect-2C2D72?style=for-the-badge)
+![Visual%20Paradigm](https://img.shields.io/badge/Visual%20Paradigm-2C2D72?style=for-the-badge)
+![StarUML](https://img.shields.io/badge/StarUML-2C2D72?style=for-the-badge)
+![Astah](https://img.shields.io/badge/Astah-2C2D72?style=for-the-badge)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-2C2D72?style=for-the-badge)
 
 ---
 
 ## 🖥️ Development Platforms and Environments
-![PyCharm](https://img.shields.io/badge/PyCharm-0EA5E9?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-0EA5E9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-0EA5E9?style=for-the-badge&logo=spyderide&logoColor=white)
-![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0EA5E9?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-0EA5E9?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google%20Colab](https://img.shields.io/badge/Google%20Colab-0EA5E9?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)
-![Arduino%20IDE](https://img.shields.io/badge/Arduino%20IDE-0EA5E9?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-0EA5E9?style=for-the-badge&logo=platformio&logoColor=white)
-![Embarcadero](https://img.shields.io/badge/Embarcadero-0EA5E9?style=for-the-badge)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-0EA5E9?style=for-the-badge)
-![SWI--Prolog](https://img.shields.io/badge/SWI--Prolog-0EA5E9?style=for-the-badge)
-![RStudio](https://img.shields.io/badge/RStudio-0EA5E9?style=for-the-badge&logo=rstudio&logoColor=white)
-![SNES--IDE](https://img.shields.io/badge/SNES--IDE-0EA5E9?style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-0EA5E9?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Simply Fortran](https://img.shields.io/badge/Simply%20Fortran-0EA5E9?style=for-the-badge&logo=simplyfortran&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-0EA5E9?style=for-the-badge&logo=eclipse&logoColor=white)
-![JuliaPro](https://img.shields.io/badge/JuliaPro-0EA5E9?style=for-the-badge&logo=julia&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-2C2D72?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-2C2D72?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-2C2D72?style=for-the-badge&logo=spyderide&logoColor=white)
+![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-2C2D72?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-2C2D72?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-2C2D72?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-2C2D72?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2C2D72?style=for-the-badge&logo=github&logoColor=white)
+![Arduino%20IDE](https://img.shields.io/badge/Arduino%20IDE-2C2D72?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-2C2D72?style=for-the-badge&logo=platformio&logoColor=white)
+![Embarcadero](https://img.shields.io/badge/Embarcadero-2C2D72?style=for-the-badge)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-2C2D72?style=for-the-badge)
+![SWI--Prolog](https://img.shields.io/badge/SWI--Prolog-2C2D72?style=for-the-badge)
+![RStudio](https://img.shields.io/badge/RStudio-2C2D72?style=for-the-badge&logo=rstudio&logoColor=white)
+![SNES--IDE](https://img.shields.io/badge/SNES--IDE-2C2D72?style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-2C2D72?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Simply Fortran](https://img.shields.io/badge/Simply%20Fortran-2C2D72?style=for-the-badge&logo=simplyfortran&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2D72?style=for-the-badge&logo=eclipse&logoColor=white)
+![JuliaPro](https://img.shields.io/badge/JuliaPro-2C2D72?style=for-the-badge&logo=julia&logoColor=white)
 
 ---
 
 ## 📝 Documentation and Scientific Writing Tools
-![LaTeX](https://img.shields.io/badge/LaTeX-0EA5E9?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-0EA5E9?style=for-the-badge&logo=markdown&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-0EA5E9?style=for-the-badge&logo=overleaf&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-2C2D72?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-2C2D72?style=for-the-badge&logo=markdown&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-2C2D72?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
 ## 🖥️ Operating Systems
 
 ### Linux Distributions
-![Fedora](https://img.shields.io/badge/Fedora-1F2937?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-1F2937?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu%20Server](https://img.shields.io/badge/Ubuntu%20Server-1F2937?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-1F2937?style=for-the-badge&logo=kali-linux&logoColor=white)
-![CAINE](https://img.shields.io/badge/CAINE-1F2937?style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-2C2D72?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-2C2D72?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu%20Server](https://img.shields.io/badge/Ubuntu%20Server-2C2D72?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-2C2D72?style=for-the-badge&logo=kali-linux&logoColor=white)
+![CAINE](https://img.shields.io/badge/CAINE-2C2D72?style=for-the-badge)
 
 ### Windows
-![Windows%2095](https://img.shields.io/badge/Windows%2095-1F2937?style=for-the-badge)
-![Windows%2098](https://img.shields.io/badge/Windows%2098-1F2937?style=for-the-badge)
-![Windows%20XP](https://img.shields.io/badge/Windows%20XP-1F2937?style=for-the-badge)
-![Windows%207](https://img.shields.io/badge/Windows%207-1F2937?style=for-the-badge)
-![Windows%208%2F8.1](https://img.shields.io/badge/Windows%208%2F8.1-1F2937?style=for-the-badge)
-![Windows%2010](https://img.shields.io/badge/Windows%2010-1F2937?style=for-the-badge)
-![Windows%2011](https://img.shields.io/badge/Windows%2011-1F2937?style=for-the-badge)
+![Windows%2095](https://img.shields.io/badge/Windows%2095-2C2D72?style=for-the-badge)
+![Windows%2098](https://img.shields.io/badge/Windows%2098-2C2D72?style=for-the-badge)
+![Windows%20XP](https://img.shields.io/badge/Windows%20XP-2C2D72?style=for-the-badge)
+![Windows%207](https://img.shields.io/badge/Windows%207-2C2D72?style=for-the-badge)
+![Windows%208%2F8.1](https://img.shields.io/badge/Windows%208%2F8.1-2C2D72?style=for-the-badge)
+![Windows%2010](https://img.shields.io/badge/Windows%2010-2C2D72?style=for-the-badge)
+![Windows%2011](https://img.shields.io/badge/Windows%2011-2C2D72?style=for-the-badge)
 
 ---
