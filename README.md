@@ -131,14 +131,14 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 🧪 Quantum Computing Frameworks and Platforms
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![QuTiP](https://img.shields.io/badge/QuTiP-6929C4?style=for-the-badge)
-![Cirq](https://img.shields.io/badge/Cirq-6929C4?style=for-the-badge&logo=google&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-6929C4?style=for-the-badge)
-![Amazon%20Braket](https://img.shields.io/badge/Amazon%20Braket-6929C4?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Rigetti%20Forest](https://img.shields.io/badge/Rigetti%20Forest-6929C4?style=for-the-badge)
-![D--Wave%20Ocean](https://img.shields.io/badge/D--Wave%20Ocean-6929C4?style=for-the-badge)
-![Quantum%20Inspire](https://img.shields.io/badge/Quantum%20Inspire-6929C4?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-16A34A?style=for-the-badge&logo=ibm&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-16A34A?style=for-the-badge)
+![Cirq](https://img.shields.io/badge/Cirq-16A34A?style=for-the-badge&logo=google&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-16A34A?style=for-the-badge)
+![Amazon%20Braket](https://img.shields.io/badge/Amazon%20Braket-16A34A?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Rigetti%20Forest](https://img.shields.io/badge/Rigetti%20Forest-16A34A?style=for-the-badge)
+![D--Wave%20Ocean](https://img.shields.io/badge/D--Wave%20Ocean-16A34A?style=for-the-badge)
+![Quantum%20Inspire](https://img.shields.io/badge/Quantum%20Inspire-16A34A?style=for-the-badge)
 
 ---
 
