@@ -46,9 +46,9 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ![Game%20Theory](https://img.shields.io/badge/Game%20Theory-4C1D95?style=for-the-badge)
 ![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-4C1D95?style=for-the-badge)
 ![Operations%20Research](https://img.shields.io/badge/Operations%20Research-4C1D95?style=for-the-badge)
-![Cosmology](https://img.shields.io/badge/Cosmology-2563EB?style=for-the-badge)
-![Astrophysics](https://img.shields.io/badge/Astrophysics-2563EB?style=for-the-badge)
-![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2563EB?style=for-the-badge)
+![Cosmology](https://img.shields.io/badge/Cosmology-4C1D95?style=for-the-badge)
+![Astrophysics](https://img.shields.io/badge/Astrophysics-4C1D95?style=for-the-badge)
+![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-4C1D95?style=for-the-badge)
 
 ---
 
