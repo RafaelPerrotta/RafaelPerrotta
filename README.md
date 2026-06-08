@@ -206,6 +206,7 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ![Ubuntu%20Server](https://img.shields.io/badge/Ubuntu%20Server-2C2D72?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-2C2D72?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![CAINE](https://img.shields.io/badge/CAINE-2C2D72?style=for-the-badge)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-2C2D72?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### Windows
 ![Windows%2095](https://img.shields.io/badge/Windows%2095-2C2D72?style=for-the-badge)
