@@ -209,12 +209,12 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-2C2D72?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### Windows
-![Windows%2095](https://img.shields.io/badge/Windows%2095-2C2D72?style=for-the-badge)
-![Windows%2098](https://img.shields.io/badge/Windows%2098-2C2D72?style=for-the-badge)
-![Windows%20XP](https://img.shields.io/badge/Windows%20XP-2C2D72?style=for-the-badge)
-![Windows%207](https://img.shields.io/badge/Windows%207-2C2D72?style=for-the-badge)
-![Windows%208%2F8.1](https://img.shields.io/badge/Windows%208%2F8.1-2C2D72?style=for-the-badge)
-![Windows%2010](https://img.shields.io/badge/Windows%2010-2C2D72?style=for-the-badge)
-![Windows%2011](https://img.shields.io/badge/Windows%2011-2C2D72?style=for-the-badge)
+![Windows%2095](https://img.shields.io/badge/Windows%2095-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%2098](https://img.shields.io/badge/Windows%2098-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%20XP](https://img.shields.io/badge/Windows%20XP-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%207](https://img.shields.io/badge/Windows%207-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%208%2F8.1](https://img.shields.io/badge/Windows%208%2F8.1-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%2010](https://img.shields.io/badge/Windows%2010-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows%2011](https://img.shields.io/badge/Windows%2011-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
