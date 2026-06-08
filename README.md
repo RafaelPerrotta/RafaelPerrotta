@@ -9,27 +9,27 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-4C1D95?style=for-the-badge)
-![Logic](https://img.shields.io/badge/Logic-4C1D95?style=for-the-badge)
-![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-4C1D95?style=for-the-badge)
-![Category%20Theory](https://img.shields.io/badge/Category%20Theory-4C1D95?style=for-the-badge)
-![Set%20Theory](https://img.shields.io/badge/Set%20Theory-4C1D95?style=for-the-badge)
-![Discrete%20Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-4C1D95?style=for-the-badge)
-![Abstract%20Algebra](https://img.shields.io/badge/Abstract%20Algebra-4C1D95?style=for-the-badge)
-![Linear%20Algebra](https://img.shields.io/badge/Linear%20Algebra-4C1D95?style=for-the-badge)
-![Group%20Theory](https://img.shields.io/badge/Group%20Theory-4C1D95?style=for-the-badge)
-![Ring%20Theory](https://img.shields.io/badge/Ring%20Theory-4C1D95?style=for-the-badge)
-![Type%20Theory](https://img.shields.io/badge/Type%20Theory-4C1D95?style=for-the-badge)
-![Field%20Theory](https://img.shields.io/badge/Field%20Theory-4C1D95?style=for-the-badge)
-![Information%20Theory](https://img.shields.io/badge/Information%20Theory-4C1D95?style=for-the-badge)
-![Graph%20Theory](https://img.shields.io/badge/Graph%20Theory-4C1D95?style=for-the-badge)
-![Probability%20Theory](https://img.shields.io/badge/Probability%20Theory-4C1D95?style=for-the-badge)
-![Game%20Theory](https://img.shields.io/badge/Game%20Theory-4C1D95?style=for-the-badge)
-![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-4C1D95?style=for-the-badge)
-![Operations%20Research](https://img.shields.io/badge/Operations%20Research-4C1D95?style=for-the-badge)
-![Cosmology](https://img.shields.io/badge/Cosmology-4C1D95?style=for-the-badge)
-![Astrophysics](https://img.shields.io/badge/Astrophysics-4C1D95?style=for-the-badge)
-![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-4C1D95?style=for-the-badge)
+![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-2C2D72?style=for-the-badge)
+![Logic](https://img.shields.io/badge/Logic-2C2D72?style=for-the-badge)
+![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-2C2D72?style=for-the-badge)
+![Category%20Theory](https://img.shields.io/badge/Category%20Theory-2C2D72?style=for-the-badge)
+![Set%20Theory](https://img.shields.io/badge/Set%20Theory-2C2D72?style=for-the-badge)
+![Discrete%20Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-2C2D72?style=for-the-badge)
+![Abstract%20Algebra](https://img.shields.io/badge/Abstract%20Algebra-2C2D72?style=for-the-badge)
+![Linear%20Algebra](https://img.shields.io/badge/Linear%20Algebra-2C2D72?style=for-the-badge)
+![Group%20Theory](https://img.shields.io/badge/Group%20Theory-2C2D72?style=for-the-badge)
+![Ring%20Theory](https://img.shields.io/badge/Ring%20Theory-2C2D72?style=for-the-badge)
+![Type%20Theory](https://img.shields.io/badge/Type%20Theory-2C2D72?style=for-the-badge)
+![Field%20Theory](https://img.shields.io/badge/Field%20Theory-2C2D72?style=for-the-badge)
+![Information%20Theory](https://img.shields.io/badge/Information%20Theory-2C2D72?style=for-the-badge)
+![Graph%20Theory](https://img.shields.io/badge/Graph%20Theory-2C2D72?style=for-the-badge)
+![Probability%20Theory](https://img.shields.io/badge/Probability%20Theory-2C2D72?style=for-the-badge)
+![Game%20Theory](https://img.shields.io/badge/Game%20Theory-2C2D72?style=for-the-badge)
+![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-2C2D72?style=for-the-badge)
+![Operations%20Research](https://img.shields.io/badge/Operations%20Research-2C2D72?style=for-the-badge)
+![Cosmology](https://img.shields.io/badge/Cosmology-2C2D72?style=for-the-badge)
+![Astrophysics](https://img.shields.io/badge/Astrophysics-2C2D72?style=for-the-badge)
+![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2C2D72?style=for-the-badge)
 
 ---
 
@@ -65,19 +65,19 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ## 🧠 Programming Paradigms
 
 ### Imperative Paradigms
-![Imperative](https://img.shields.io/badge/Imperative-7C3AED?style=for-the-badge)
-![Procedural](https://img.shields.io/badge/Procedural-7C3AED?style=for-the-badge)
-![Object--Oriented](https://img.shields.io/badge/Object--Oriented-7C3AED?style=for-the-badge)
-![Structured](https://img.shields.io/badge/Structured-7C3AED?style=for-the-badge)
+![Imperative](https://img.shields.io/badge/Imperative-2C2D72?style=for-the-badge)
+![Procedural](https://img.shields.io/badge/Procedural-2C2D72?style=for-the-badge)
+![Object--Oriented](https://img.shields.io/badge/Object--Oriented-2C2D72?style=for-the-badge)
+![Structured](https://img.shields.io/badge/Structured-2C2D72?style=for-the-badge)
 
 ### Declarative Paradigms
-![Declarative](https://img.shields.io/badge/Declarative-7C3AED?style=for-the-badge)
-![Functional](https://img.shields.io/badge/Functional-7C3AED?style=for-the-badge)
-![Logical](https://img.shields.io/badge/Logical-7C3AED?style=for-the-badge)
-![Query%2FDatabase](https://img.shields.io/badge/Query%2FDatabase-7C3AED?style=for-the-badge)
+![Declarative](https://img.shields.io/badge/Declarative-2C2D72?style=for-the-badge)
+![Functional](https://img.shields.io/badge/Functional-2C2D72?style=for-the-badge)
+![Logical](https://img.shields.io/badge/Logical-2C2D72?style=for-the-badge)
+![Query%2FDatabase](https://img.shields.io/badge/Query%2FDatabase-2C2D72?style=for-the-badge)
 
 ### Generic Paradigms
-![Generic](https://img.shields.io/badge/Generic-7C3AED?style=for-the-badge)
+![Generic](https://img.shields.io/badge/Generic-2C2D72?style=for-the-badge)
 
 ---
 
