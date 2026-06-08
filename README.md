@@ -9,29 +9,10 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-- Set Theory
 - Logic
-- Type Theory
-- Discrete Mathematics
-- Abstract Algebra
-- Group Theory
-- Ring Theory
-- Field Theory
-- Category Theory
-- Linear Algebra
-- Graph Theory
-- Game Theory
-- Operations Research
-- Engineering Economics
-- Probability Theory
-- Information Theory
-- Kolmogorov Complexity
-- Computation Theory
-- Quantum Computing
-- Astrophysics
-- Cosmology
 
 ![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-4C1D95?style=for-the-badge)
+![Logic](https://img.shields.io/badge/Logic-4C1D95?style=for-the-badge)
 ![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-4C1D95?style=for-the-badge)
 ![Category%20Theory](https://img.shields.io/badge/Category%20Theory-4C1D95?style=for-the-badge)
 ![Set%20Theory](https://img.shields.io/badge/Set%20Theory-4C1D95?style=for-the-badge)
