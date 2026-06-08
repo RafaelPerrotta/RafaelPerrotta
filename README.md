@@ -9,8 +9,6 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📌 Areas of Interest
-- Logic
-
 ![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-4C1D95?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/Logic-4C1D95?style=for-the-badge)
 ![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-4C1D95?style=for-the-badge)
