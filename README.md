@@ -11,12 +11,17 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ## 📌 Areas of Interest
 ![Kolmogorov%20Complexity](https://img.shields.io/badge/Kolmogorov%20Complexity-2C2D72?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/Logic-2C2D72?style=for-the-badge)
-![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-2C2D72?style=for-the-badge)
-![Category%20Theory](https://img.shields.io/badge/Category%20Theory-2C2D72?style=for-the-badge)
-![Set%20Theory](https://img.shields.io/badge/Set%20Theory-2C2D72?style=for-the-badge)
 ![Discrete%20Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-2C2D72?style=for-the-badge)
 ![Abstract%20Algebra](https://img.shields.io/badge/Abstract%20Algebra-2C2D72?style=for-the-badge)
 ![Linear%20Algebra](https://img.shields.io/badge/Linear%20Algebra-2C2D72?style=for-the-badge)
+![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-2C2D72?style=for-the-badge)
+![Operations%20Research](https://img.shields.io/badge/Operations%20Research-2C2D72?style=for-the-badge)
+![Cosmology](https://img.shields.io/badge/Cosmology-2C2D72?style=for-the-badge)
+![Astrophysics](https://img.shields.io/badge/Astrophysics-2C2D72?style=for-the-badge)
+![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2C2D72?style=for-the-badge)
+![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-2C2D72?style=for-the-badge)
+![Category%20Theory](https://img.shields.io/badge/Category%20Theory-2C2D72?style=for-the-badge)
+![Set%20Theory](https://img.shields.io/badge/Set%20Theory-2C2D72?style=for-the-badge)
 ![Group%20Theory](https://img.shields.io/badge/Group%20Theory-2C2D72?style=for-the-badge)
 ![Ring%20Theory](https://img.shields.io/badge/Ring%20Theory-2C2D72?style=for-the-badge)
 ![Type%20Theory](https://img.shields.io/badge/Type%20Theory-2C2D72?style=for-the-badge)
@@ -25,11 +30,6 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ![Graph%20Theory](https://img.shields.io/badge/Graph%20Theory-2C2D72?style=for-the-badge)
 ![Probability%20Theory](https://img.shields.io/badge/Probability%20Theory-2C2D72?style=for-the-badge)
 ![Game%20Theory](https://img.shields.io/badge/Game%20Theory-2C2D72?style=for-the-badge)
-![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-2C2D72?style=for-the-badge)
-![Operations%20Research](https://img.shields.io/badge/Operations%20Research-2C2D72?style=for-the-badge)
-![Cosmology](https://img.shields.io/badge/Cosmology-2C2D72?style=for-the-badge)
-![Astrophysics](https://img.shields.io/badge/Astrophysics-2C2D72?style=for-the-badge)
-![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2C2D72?style=for-the-badge)
 
 ---
 
