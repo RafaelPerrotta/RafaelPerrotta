@@ -82,16 +82,16 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 🤖 Artificial Intelligence and Machine Learning Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-2563EB?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-2563EB?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-2563EB?style=for-the-badge)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-2563EB?style=for-the-badge&logo=huggingface&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-2563EB?style=for-the-badge)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-2563EB?style=for-the-badge&logo=intel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2C2D72?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2C2D72?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2C2D72?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-2C2D72?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C2D72?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C2D72?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-2C2D72?style=for-the-badge)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-2C2D72?style=for-the-badge&logo=huggingface&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka-2C2D72?style=for-the-badge)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-2C2D72?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
