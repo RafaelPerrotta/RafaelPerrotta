@@ -131,11 +131,11 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ---
 
 ## 📅 Project Management and Collaboration Tools
-![Monday.com](https://img.shields.io/badge/Monday.com-F97316?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-F97316?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-F97316?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-F97316?style=for-the-badge&logo=gitlab&logoColor=white)
-![PMBOK](https://img.shields.io/badge/PMBOK-F97316?style=for-the-badge)
+![Monday.com](https://img.shields.io/badge/Monday.com-6929C4?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-6929C4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-6929C4?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-6929C4?style=for-the-badge&logo=gitlab&logoColor=white)
+![PMBOK](https://img.shields.io/badge/PMBOK-6929C4?style=for-the-badge)
 
 ---
 
