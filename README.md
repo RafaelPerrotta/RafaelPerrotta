@@ -130,15 +130,6 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 
 ---
 
-## 📅 Project Management and Collaboration Tools
-![Monday.com](https://img.shields.io/badge/Monday.com-6929C4?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-6929C4?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-6929C4?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-6929C4?style=for-the-badge&logo=gitlab&logoColor=white)
-![PMBOK](https://img.shields.io/badge/PMBOK-6929C4?style=for-the-badge)
-
----
-
 ## 🧪 Quantum Computing Frameworks and Platforms
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 ![QuTiP](https://img.shields.io/badge/QuTiP-6929C4?style=for-the-badge)
@@ -159,19 +150,21 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 
 ---
 
+## 📅 Project Management and Collaboration Tools
+![Monday.com](https://img.shields.io/badge/Monday.com-6929C4?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![Microsoft%20Project](https://img.shields.io/badge/Microsoft%20Project-6929C4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub%20Projects](https://img.shields.io/badge/GitHub%20Projects-6929C4?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-6929C4?style=for-the-badge&logo=gitlab&logoColor=white)
+![PMBOK](https://img.shields.io/badge/PMBOK-6929C4?style=for-the-badge)
+
+---
+
 ## 📐 UML (Unified Modeling Language) and Software Modeling Tools
 ![Enterprise%20Architect](https://img.shields.io/badge/Enterprise%20Architect-0EA5E9?style=for-the-badge)
 ![Visual%20Paradigm](https://img.shields.io/badge/Visual%20Paradigm-0EA5E9?style=for-the-badge)
 ![StarUML](https://img.shields.io/badge/StarUML-0EA5E9?style=for-the-badge)
 ![Astah](https://img.shields.io/badge/Astah-0EA5E9?style=for-the-badge)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-0EA5E9?style=for-the-badge)
-
----
-
-## 📝 Documentation and Scientific Writing Tools
-![LaTeX](https://img.shields.io/badge/LaTeX-0EA5E9?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-0EA5E9?style=for-the-badge&logo=markdown&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-0EA5E9?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
@@ -195,6 +188,13 @@ Professional with experience in **Systems Analysis**, **Data Analysis**, **Data 
 ![Simply Fortran](https://img.shields.io/badge/Simply%20Fortran-0EA5E9?style=for-the-badge&logo=simplyfortran&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-0EA5E9?style=for-the-badge&logo=eclipse&logoColor=white)
 ![JuliaPro](https://img.shields.io/badge/JuliaPro-0EA5E9?style=for-the-badge&logo=julia&logoColor=white)
+
+---
+
+## 📝 Documentation and Scientific Writing Tools
+![LaTeX](https://img.shields.io/badge/LaTeX-0EA5E9?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-0EA5E9?style=for-the-badge&logo=markdown&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-0EA5E9?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
