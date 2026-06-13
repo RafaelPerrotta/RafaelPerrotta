@@ -17,8 +17,11 @@ Rafael Perrotta
 ![Discrete%20Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-2C2D72?style=for-the-badge)
 ![Abstract%20Algebra](https://img.shields.io/badge/Abstract%20Algebra-2C2D72?style=for-the-badge)
 ![Linear%20Algebra](https://img.shields.io/badge/Linear%20Algebra-2C2D72?style=for-the-badge)
+![Financial%20Mathematics](https://img.shields.io/badge/Financial%20Mathematics-2C2D72?style=for-the-badge)
 ![Economic%20Engineering](https://img.shields.io/badge/Economic%20Engineering-2C2D72?style=for-the-badge)
 ![Operations%20Research](https://img.shields.io/badge/Operations%20Research-2C2D72?style=for-the-badge)
+![Climatology](https://img.shields.io/badge/Climatology-2C2D72?style=for-the-badge)
+![Meteorology](https://img.shields.io/badge/Meteorology-2C2D72?style=for-the-badge)
 ![Cosmology](https://img.shields.io/badge/Cosmology-2C2D72?style=for-the-badge)
 ![Astrophysics](https://img.shields.io/badge/Astrophysics-2C2D72?style=for-the-badge)
 ![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2C2D72?style=for-the-badge)
@@ -33,6 +36,7 @@ Rafael Perrotta
 ![Graph%20Theory](https://img.shields.io/badge/Graph%20Theory-2C2D72?style=for-the-badge)
 ![Probability%20Theory](https://img.shields.io/badge/Probability%20Theory-2C2D72?style=for-the-badge)
 ![Game%20Theory](https://img.shields.io/badge/Game%20Theory-2C2D72?style=for-the-badge)
+![Prospect%20Theory](https://img.shields.io/badge/Prospect%20Theory-2C2D72?style=for-the-badge)
 
 ---
 
