@@ -25,6 +25,8 @@ Rafael Perrotta
 ![Cosmology](https://img.shields.io/badge/Cosmology-2C2D72?style=for-the-badge)
 ![Astrophysics](https://img.shields.io/badge/Astrophysics-2C2D72?style=for-the-badge)
 ![Quantum%20Computing](https://img.shields.io/badge/Quantum%20Computing-2C2D72?style=for-the-badge)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-2C2D72?style=for-the-badge)
+![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-2C2D72?style=for-the-badge)
 ![Computation%20Theory](https://img.shields.io/badge/Computation%20Theory-2C2D72?style=for-the-badge)
 ![Category%20Theory](https://img.shields.io/badge/Category%20Theory-2C2D72?style=for-the-badge)
 ![Set%20Theory](https://img.shields.io/badge/Set%20Theory-2C2D72?style=for-the-badge)
