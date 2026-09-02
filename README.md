@@ -7,7 +7,7 @@ Rafael Perrotta
 - Bachelor of Science: Computer Science.
 - Graduate Certificate: Data Science.
 - Graduate Certificate: Economics, Investments, and Banking.
-- Professional with experience in Systems Analysis, Data Analysis, Data Analytics, Data Visualization, Data Storytelling, Data Science, and Data Engineering.
+- Professional with experience in Systems Analysis, Data Analysis, Data Analytics, Data Science, and Data Engineering.
 
 ---
 
