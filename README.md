@@ -156,7 +156,6 @@ Rafael Perrotta
 ![MariaDB](https://img.shields.io/badge/MariaDB-2C2D72?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2C2D72?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle%20Database](https://img.shields.io/badge/Oracle%20Database-2C2D72?style=for-the-badge&logo=oracledb&logoColor=white)
 
 ---
 
