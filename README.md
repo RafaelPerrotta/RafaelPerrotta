@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Perrotta
 
-Data Science • Artificial Intelligence • Data Analytics • Operations Research • Mathematical Optimization
+Systems Analysis • Data Analysis • Data Analytics • Data Science • Artificial Intelligence • Operations Research • Mathematical Optimization
 
 ---
 
