@@ -9,7 +9,7 @@ Data Science • Artificial Intelligence • Data Analytics • Operations Resea
 - Bachelor of Science in Computer Science.
 - Postgraduate Certificate in Data Science.
 - MBA in Data Science, Artificial Intelligence, and Analytics.
-- Professional experience in systems analysis, data analytics, data science, and artificial intelligence.
+- Professional experience in  systems analysis, data analysis, data analytics, data science, artificial intelligence, operations research, and mathematical optimization.
 
 ---
 
