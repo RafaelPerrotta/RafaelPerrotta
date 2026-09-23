@@ -9,7 +9,7 @@ Systems Analysis • Data Analysis • Data Analytics • Data Science • Artif
 - Bachelor of Science in Computer Science.
 - Postgraduate Certificate in Data Science.
 - MBA in Data Science, Artificial Intelligence, and Analytics.
-- Professional experience in  systems analysis, data analysis, data analytics, data science, artificial intelligence, operations research, and mathematical optimization.
+- I hold a degree in Computer Science, a postgraduate qualification in Data Science, and an MBA in Data Science, Artificial Intelligence, and Analytics. My professional experience spans systems analysis, data science, artificial intelligence, operations research, and mathematical optimization. I use computational and quantitative methods to investigate complex problems and develop solutions that support decision-making.
 
 ---
 
