@@ -7,7 +7,7 @@ Systems Analyze • Data Science • Artificial Intelligence • Operations Rese
 ## 📌 About
 - B.Sc.: Computer Science
 - Postgraduate: Data Science
-- MBA: Data Science, Artificial Intelligence, and Analytic.
+- MBA: Data Science, Artificial Intelligence, and Analytics.
 
 I hold a degree in Computer Science, a postgraduate qualification in Data Science, and an MBA in Data Science, Artificial Intelligence, and Analytics. My professional experience spans systems analysis, data science, artificial intelligence, operations research, and mathematical optimization. I use computational and quantitative methods to investigate complex problems and develop solutions that support decision-making.
 
