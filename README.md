@@ -74,7 +74,6 @@ I hold a degree in Computer Science, a postgraduate qualification in Data Scienc
 ## 🗄️ Database Technologies
 
 ![SQL](https://img.shields.io/badge/SQL-2C2D72?style=for-the-badge)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2C2D72?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-2C2D72?style=for-the-badge&logo=mariadb&logoColor=white)
