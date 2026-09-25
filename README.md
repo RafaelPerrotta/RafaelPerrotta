@@ -244,7 +244,7 @@ I hold a degree in Computer Science, a postgraduate qualification in Data Scienc
 
 ---
 
-## 🌐💼 Contact and Professional Profiles
+## 🌐 Contact and Professional Profiles
 
 [![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:rafaelperrotta@yahoo.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-perrotta-36537839b/)
