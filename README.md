@@ -447,11 +447,12 @@ The descriptions summarize the subjects covered by the official course pages. Th
 
 ## 🌐 Contact and Professional Profiles
 
-[![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:rafaelperrotta@yahoo.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-perrotta-36537839b/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaelperrotta)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rafael-perrotta-de-menezes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979814137)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafaelperrotta)
+[![Email](https://img.shields.io/badge/Email-Contact-2C2D72?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:rafaelperrotta@yahoo.com.br)
+[![Lattes](https://img.shields.io/badge/Lattes-Academic%20CV-2C2D72?style=for-the-badge)](https://lattes.cnpq.br/1853298240757469)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-2C2D72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-perrotta-36537839b/)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-2C2D72?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rafael-perrotta-de-menezes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-2C2D72?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaelperrotta)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-2C2D72?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979814137)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2C2D72?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafaelperrotta)
 
 ---
