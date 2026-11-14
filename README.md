@@ -244,6 +244,207 @@ Graduated in Computer Science and completed a postgraduate specialization in Dat
 
 ---
 
+## 📚 Independent Studies — MIT OpenCourseWare
+
+**Recorded period:** January 2019 to July 2025  
+**Institution providing the materials:** Massachusetts Institute of Technology (MIT) — [MIT OpenCourseWare](https://ocw.mit.edu/)  
+**Learning format:** Independent study using open educational materials  
+**Fields:** Computer Science, Data Science, Statistics, Machine Learning, Applied Mathematics, Operations Research, Quantitative Finance, and Atmospheric Sciences
+
+### Overview
+
+This document brings together **13 independent studies** undertaken using materials published by **MIT OpenCourseWare (OCW)**. The entries are arranged chronologically according to the dates recorded in the personal inventory/LinkedIn profile. These dates **do not necessarily correspond to the academic terms in which MIT originally taught the courses**.
+
+The descriptions summarize the subjects covered by the official course pages. The **Knowledge and Skills Developed** sections describe learning outcomes that **can result from studying the materials in full and completing the associated exercises**. They do not imply an individual assessment, grade, or certification issued by MIT.
+
+> **Nature of these studies:** MIT OpenCourseWare is an open learning resource. OCW **does not provide enrollment, academic credit, grades, certificates, or formal recognition of course completion**. These entries document independent learning, not MIT-certified courses. See [MIT's official explanation](https://support.learn.mit.edu/hc/en-us/articles/44087247470619-Are-there-certificates-or-credit-for-MIT-OpenCourseWare-courses).
+
+### Chronological Record of Studies
+
+#### 1. Introduction to C Memory Management and C++ Object-Oriented Programming
+
+**Recorded date:** January 2019  
+**Reference course:** 6.088 — January IAP 2010  
+**Field:** Computer Science — Programming and Software Engineering
+
+**Description:** An introduction to programming in C and C++, emphasizing explicit memory management, pointers, structures, dynamic allocation, and object-oriented principles. Topics include classes, constructors, destructors, inheritance, polymorphism, templates, and components of the C++ Standard Library.
+
+**Knowledge and Skills Developed:** Thorough study and hands-on exercises can develop an understanding of the differences between memory management in C and object-oriented abstractions in C++; the ability to implement data structures and programs with greater control over computational resources; and awareness of common issues involving pointers, memory, and code organization.
+
+**Reference:** [MIT OpenCourseWare — 6.088](https://ocw.mit.edu/courses/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
+
+#### 2. Tropical Meteorology
+
+**Recorded date:** July 2019  
+**Reference course:** 12.811 — Spring 2011  
+**Field:** Atmospheric Sciences and Physical Modeling
+
+**Description:** The dynamics and thermodynamics of the tropical atmosphere, including radiative-convective equilibrium, large-scale atmospheric circulation, intraseasonal variability, the El Niño–Southern Oscillation (ENSO), and tropical cyclones.
+
+**Knowledge and Skills Developed:** Thorough study can support interpretation of the physical mechanisms behind tropical climate, connections across scales of atmospheric circulation, analysis of climate variability, and an understanding of conceptual and quantitative models used in meteorology.
+
+**Reference:** [MIT OpenCourseWare — 12.811](https://ocw.mit.edu/courses/12-811-tropical-meteorology-spring-2011/)
+
+#### 3. Introduction to Mathematical Programming
+
+**Recorded date:** January 2020  
+**Reference course:** 6.251J — Fall 2009  
+**Field:** Operations Research and Mathematical Optimization
+
+**Description:** Foundations of linear optimization and its extensions, including mathematical problem formulation, geometric interpretations, the simplex method, duality, sensitivity analysis, robust optimization, network flows, interior-point methods, and selected topics in discrete and semidefinite optimization.
+
+**Knowledge and Skills Developed:** Studying the materials and solving the problems can develop the ability to formulate objective functions and constraints, analyze properties of optimal solutions, interpret duality and sensitivity, and identify appropriate algorithms for different classes of optimization problems.
+
+**Reference:** [MIT OpenCourseWare — 6.251J](https://ocw.mit.edu/courses/6-251j-introduction-to-mathematical-programming-fall-2009/)
+
+#### 4. Integer Programming and Combinatorial Optimization
+
+**Recorded date:** July 2020  
+**Reference course:** 15.083J — Fall 2009  
+**Field:** Operations Research and Combinatorial Optimization
+
+**Description:** Integer, mixed-integer, and combinatorial optimization, covering mathematical formulations, relaxations, computational complexity, duality, the geometry and algebra of integer optimization, cutting-plane methods, enumeration techniques, heuristics, and approximation algorithms.
+
+**Knowledge and Skills Developed:** Comprehensive study can build the ability to represent discrete decisions using integer and binary variables, assess the strength of relaxations, understand major solution methods, and analyze allocation, selection, and planning problems involving combinatorial constraints.
+
+**Reference:** [MIT OpenCourseWare — 15.083J](https://ocw.mit.edu/courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/)
+
+#### 5. Mathematics of Big Data and Machine Learning
+
+**Recorded date:** January 2021  
+**Reference materials:** RES.LL-005 — January IAP 2020  
+**Field:** Data Science, Big Data, and Machine Learning
+
+**Description:** Mathematical and computational approaches to large-scale data analysis, focusing on the Dynamic Distributed Dimensional Data Model (D4M), sparse matrix structures, associative arrays, distributed databases, and connections among linear algebra, graphs, and data processing.
+
+**Knowledge and Skills Developed:** The materials provide a foundation for reasoning about mathematical representations of large-scale datasets, sparse data processing, links between computation and storage, and the application of algebraic operations to data analysis problems.
+
+**Reference:** [MIT OpenCourseWare — RES.LL-005](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+
+#### 6. Inference from Data and Models
+
+**Recorded date:** July 2021  
+**Reference course:** 12.864 — Spring 2005  
+**Field:** Statistical Inference, Modeling, and Inverse Methods
+
+**Description:** Methods for extracting information from observations in conjunction with physical and mathematical models. Topics include inverse problems, least squares, singular value decomposition, covariance, recursive estimation, Kalman filtering, data assimilation, and spectral analysis techniques.
+
+**Knowledge and Skills Developed:** Comprehensive study can develop the ability to connect observational data to models, identify estimation problems, interpret uncertainty and the limitations of solutions, and apply concepts from linear algebra and statistics to the analysis of dynamic systems.
+
+**Reference:** [MIT OpenCourseWare — 12.864](https://ocw.mit.edu/courses/12-864-inference-from-data-and-models-spring-2005/)
+
+#### 7. Topics in Mathematics of Data Science
+
+**Recorded date:** January 2022  
+**Reference course:** 18.S096 — Fall 2015  
+**Field:** Mathematics of Data Science
+
+**Description:** Theoretical topics at the intersection of mathematics, statistics, algorithms, and data science, including high-dimensional principal component analysis, manifold learning, diffusion maps, spectral clustering, concentration inequalities, sparse recovery, and random graph models.
+
+**Knowledge and Skills Developed:** Studying the materials can deepen understanding of the mathematical foundations of dimensionality reduction, clustering, and information recovery methods, while supporting the interpretation of assumptions, limitations, and theoretical guarantees underlying data analysis algorithms.
+
+**Reference:** [MIT OpenCourseWare — 18.S096](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/)
+
+#### 8. Data Mining
+
+**Recorded date:** July 2022  
+**Reference course:** 15.062 — Spring 2003  
+**Field:** Data Mining and Predictive Analytics
+
+**Description:** An introduction to data mining methods used to recognize patterns, identify relationships, and make predictions, with applications in business problems, fraud detection, customer management, credit, and investments. The materials bring together statistical and artificial intelligence perspectives.
+
+**Knowledge and Skills Developed:** Completing the materials can support an understanding of knowledge discovery in databases, the selection of analytical techniques, and the strengths and limitations of data mining methods in real-world settings.
+
+**Reference:** [MIT OpenCourseWare — 15.062](https://ocw.mit.edu/courses/15-062-data-mining-spring-2003/)
+
+#### 9. Introduction to Computer Science and Programming in Python
+
+**Recorded date:** January 2023  
+**Reference courses:** 6.0001 — Fall 2016; 6.100L — Fall 2022  
+**Field:** Computer Science and Python Programming
+
+**Description:** An introduction to computational problem-solving, including Python programming, control structures, functions, decomposition, abstraction, algorithms, and program development. The two references represent related versions of introductory material with different organization and pacing.
+
+**Knowledge and Skills Developed:** Completing the activities can develop the ability to design algorithmic solutions, write and test Python programs, decompose problems into functions, and strengthen computational thinking. The two versions can be used as complementary references without implying two certificates or two formally completed MIT courses.
+
+**References:**
+1. [MIT OpenCourseWare — 6.0001: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+2. [MIT OpenCourseWare — 6.100L: Introduction to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
+
+#### 10. Quantum Computation
+
+**Recorded date:** July 2023  
+**Reference course:** 18.435J — Fall 2003  
+**Field:** Quantum Computing and Theory of Computation
+
+**Description:** Theoretical and mathematical foundations of quantum computing, including quantum states and operations, Simon's, Shor's, and Grover's algorithms, quantum computational models, error correction, cryptography, and fault tolerance.
+
+**Knowledge and Skills Developed:** Comprehensive study can help compare classical and quantum computational models, explain the significance of representative quantum algorithms, and understand challenges associated with error correction and the implementation of quantum systems.
+
+**Reference:** [MIT OpenCourseWare — 18.435J](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
+
+#### 11. Prediction: Machine Learning and Statistics
+
+**Recorded date:** January 2024  
+**Reference course:** 15.097 — Spring 2012  
+**Field:** Machine Learning, Statistics, and Predictive Modeling
+
+**Description:** An integrated study of machine learning and statistical methods for prediction. Topics include classification, regression, clustering, validation, generalization, regularization, support vector machines (SVM), boosting, statistical learning theory, and Bayesian methods.
+
+**Knowledge and Skills Developed:** Thorough engagement with the materials can support the comparison of predictive techniques, recognition of overfitting and underfitting, evaluation of generalization performance, and understanding of the probabilistic and statistical foundations of machine learning algorithms.
+
+**Reference:** [MIT OpenCourseWare — 15.097](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/)
+
+#### 12. Computational Methods of Scientific Programming
+
+**Recorded date:** January 2025  
+**Reference courses:** 12.010 — Fall 2011; 12.010 — Fall 2024  
+**Field:** Scientific Programming, Numerical Methods, and Applied Computing
+
+**Description:** Programming methods and languages applied to scientific research. The 2011 version introduces FORTRAN, C, C++, MATLAB, and Mathematica, emphasizing algorithm design, development, and verification. The 2024 version updates the material with Python, Julia, C/C++, Jupyter, techniques for learning from data and models, and cloud and high-performance computing workflows.
+
+**Knowledge and Skills Developed:** Thorough study and practical exercises can develop the ability to implement, compare, and verify scientific programs; make informed choices among programming languages and tools; and apply computational methods to the analysis of physical phenomena, data, and models.
+
+**References:**
+1. [MIT OpenCourseWare — 12.010 (Fall 2011)](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/)
+2. [MIT OpenCourseWare — 12.010 (Fall 2024)](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/)
+
+#### 13. Topics in Mathematics with Applications in Finance
+
+**Recorded date:** July 2025  
+**Reference courses:** 18.S096 — Fall 2013; 18.642 — Fall 2024  
+**Field:** Financial Mathematics and Quantitative Finance
+
+**Description:** Mathematical applications in finance, bringing together linear algebra, probability, statistics, stochastic processes, regression, numerical methods, and topics in investment and pricing. The two references provide related versions of the course, including an updated 2024 edition.
+
+**Knowledge and Skills Developed:** Comprehensive study can build the ability to interpret quantitative models used in finance, understand connections between mathematical assumptions and investment decisions, and develop a foundation for analyzing risk, returns, and financial modeling methods.
+
+**References:**
+1. [MIT OpenCourseWare — 18.S096: Topics in Mathematics with Applications in Finance (Fall 2013)](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+2. [MIT OpenCourseWare — 18.642: Topics in Mathematics with Applications in Finance (Fall 2024)](https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/)
+
+### Inventory Summary
+
+| Metric | Count |
+|---|---:|
+| Independent studies recorded | 13 |
+| Entries with one reference | 10 |
+| Entries with two references | 3 |
+| Total references | 16 |
+| Period covered by personal records | 2019–2025 |
+
+### Scope and Transparency
+
+- **Source of content:** Official MIT OpenCourseWare pages used to describe the subjects covered by each study.
+- **Source of dates:** Personal inventory/LinkedIn; they are not certification dates or the original MIT academic terms.
+- **Learning outcomes:** The skills described represent potential educational outcomes from thorough study and completion of exercises, without claiming an individual assessment by MIT.
+- **Verification:** MIT OCW does not issue certificates or academic credit. This document serves as an independent learning record and a curated reference for studies and projects.
+- **Links:** All 16 official URLs in this document were supplied directly by the author of the inventory. Entries 9, 12, and 13 each include two references to different versions of the materials.
+
+**Institutional source:** [MIT OpenCourseWare](https://ocw.mit.edu/) · [Official policy on certificates and credit](https://support.learn.mit.edu/hc/en-us/articles/44087247470619-Are-there-certificates-or-credit-for-MIT-OpenCourseWare-courses)
+
+---
+
 ## 🌐 Contact and Professional Profiles
 
 [![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:rafaelperrotta@yahoo.com.br)
