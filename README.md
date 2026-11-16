@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Perrotta
 
-Systems Analyze • Data Analytics • Data Science • Artificial Intelligence • Operations Research • Mathematical Optimization
+Data Analytics • Data Science • Artificial Intelligence • Operations Research • Mathematical Optimization
 
 ---
 
@@ -9,7 +9,7 @@ Systems Analyze • Data Analytics • Data Science • Artificial Intelligence 
 - Postgraduate: Data Science
 - MBA: Data Science, Artificial Intelligence, and Analytics.
 
-Graduated in Computer Science and completed a postgraduate specialization in Data Science. Has experience in systems analysis, data analysis, data science, artificial intelligence, operations research, and mathematical optimization. Applies computational and quantitative methods to investigate complex problems and develop solutions that support analysis and decision-making. Academic interests include data science, artificial intelligence, operations research, mathematical optimization, and theory of computation.
+Graduated in Computer Science and completed a postgraduate specialization in Data Science. Has experience in data analysis, data science, artificial intelligence, operations research, and mathematical optimization. Applies computational and quantitative methods to investigate complex problems and develop solutions that support analysis and decision-making. Academic interests include data science, artificial intelligence, operations research, mathematical optimization, and theory of computation.
 
 ---
 
