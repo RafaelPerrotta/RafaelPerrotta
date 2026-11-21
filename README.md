@@ -430,7 +430,7 @@ The descriptions summarize the subjects covered by the official course pages. Th
 | Independent studies recorded | 13 |
 | Entries with one reference | 10 |
 | Entries with two references | 3 |
-| Total references | 16 |
+| Total course references | 16 |
 | Period covered by personal records | 2019–2025 |
 
 ### Scope and Transparency
@@ -442,6 +442,161 @@ The descriptions summarize the subjects covered by the official course pages. Th
 - **Links:** All 16 official URLs in this document were supplied directly by the author of the inventory. Entries 9, 12, and 13 each include two references to different versions of the materials.
 
 **Institutional source:** [MIT OpenCourseWare](https://ocw.mit.edu/) · [Official policy on certificates and credit](https://support.learn.mit.edu/hc/en-us/articles/44087247470619-Are-there-certificates-or-credit-for-MIT-OpenCourseWare-courses)
+
+---
+
+## 📚 Independent Studies — HarvardX Data Science
+
+**Recorded period:** January 2024 to September 2026  
+**Institution providing the materials:** HarvardX — Harvard University, through [Harvard Online](https://harvardonline.harvard.edu/program/data-science) and [edX](https://www.edx.org/certificates/professional-certificate/harvardx-data-science)  
+**Reference program:** Data Science Professional Certificate  
+**Learning format:** Independent study using educational materials available through the free audit track  
+**Fields:** Data Science, Statistics, Probability, R Programming, Data Visualization, Statistical Inference, Predictive Modeling, and Machine Learning
+
+### Overview
+
+This document brings together **9 independent studies** based on educational materials published by **HarvardX** through the edX platform as part of the *Data Science Professional Certificate* program.
+
+The entries are arranged chronologically according to **study dates confirmed in the personal learning record by its author**. These dates refer to independent learning activities, not to certificate issuance or formal academic enrollment at Harvard University.
+
+The curriculum combines statistical theory, computational methods, and practical data analysis using R. Topics include exploratory data analysis, visualization, probability, inference, regression, data wrangling, reproducible workflows, and machine learning.
+
+The **Knowledge and Skills Developed** sections describe outcomes that can result from thorough study of the relevant materials and exercises. They do not imply an individual assessment, grade, or credential issued by HarvardX.
+
+> **Nature of these studies:** The edX free audit track offers access to selected course materials but does not award a verified certificate or academic credit. These entries describe independent learning and should not be interpreted as formal admission to Harvard University, verified completion of each course, or award of the Data Science Professional Certificate.
+
+### Chronological Record of Studies
+
+#### 1. Data Science: R Basics
+
+**Recorded date:** January 2024  
+**Reference course:** HarvardX — Data Science: R Basics  
+**Field:** Computer Science — R Programming and Data Analysis
+
+**Description:** An introduction to R programming and its applications in data analysis. Topics include data types, vectors, indexing, arithmetic operations, functions, conditional statements, loops, sorting, elementary data manipulation, and introductory visualization.
+
+**Knowledge and Skills Developed:** Thorough study and practical exercises can develop basic R programming skills, the ability to manipulate and explore datasets, and familiarity with computational approaches to analytical problems.
+
+**Reference:** [Harvard Online — Data Science: R Basics](https://harvardonline.harvard.edu/course/data-science-r-basics)
+
+#### 2. Data Science: Visualization
+
+**Recorded date:** May 2024  
+**Reference course:** HarvardX — Data Science: Visualization  
+**Field:** Data Science — Exploratory Data Analysis and Statistical Visualization
+
+**Description:** Principles of statistical graphics for exploring, interpreting, and communicating information. Topics include exploratory data analysis, the `ggplot2` package, graphical representations, and visualization design.
+
+**Knowledge and Skills Developed:** Comprehensive study can support the creation and interpretation of graphics, the selection of appropriate displays, recognition of visual biases, and communication of analytical findings.
+
+**Reference:** [Harvard Online — Data Science: Visualization](https://harvardonline.harvard.edu/course/data-science-visualization)
+
+#### 3. Data Science: Probability
+
+**Recorded date:** September 2024  
+**Reference course:** HarvardX — Data Science: Probability  
+**Field:** Mathematics — Probability and Statistical Foundations
+
+**Description:** Foundations of probability theory for data science and statistical reasoning. Topics include random variables, independence, distributions, expected values, standard errors, Monte Carlo simulation, and the Central Limit Theorem.
+
+**Knowledge and Skills Developed:** Study of the materials and exercises can develop probabilistic reasoning, interpretation of uncertainty, and an understanding of simulation methods and concepts underlying statistical inference.
+
+**Reference:** [Harvard Online — Data Science: Probability](https://harvardonline.harvard.edu/course/data-science-probability)
+
+#### 4. Data Science: Inference and Modeling
+
+**Recorded date:** January 2025  
+**Reference course:** HarvardX — Data Science: Inference and Modeling  
+**Field:** Statistics — Statistical Inference and Mathematical Modeling
+
+**Description:** Methods for drawing conclusions from observed data and analyzing uncertainty. Topics include sampling variability, estimation, standard errors, margins of error, confidence intervals, statistical significance, and statistical modeling.
+
+**Knowledge and Skills Developed:** Comprehensive study can strengthen interpretation of statistical estimates, understanding of confidence intervals and uncertainty, and critical evaluation of assumptions underlying data-driven conclusions.
+
+**Reference:** [Harvard Online — Data Science: Inference and Modeling](https://harvardonline.harvard.edu/course/data-science-inference-modeling)
+
+#### 5. Data Science: Productivity Tools
+
+**Recorded date:** May 2025  
+**Reference course:** HarvardX — Data Science: Productivity Tools  
+**Field:** Scientific Computing — Development Tools and Reproducible Research
+
+**Description:** Tools and workflows supporting reproducible and organized data science projects. Topics include Unix/Linux command-line tools, Git, GitHub, RStudio, project organization, and reproducible reports.
+
+**Knowledge and Skills Developed:** Thorough study and practice can improve project organization, source-code version management, documentation, and reproducible analytical workflows.
+
+**Reference:** [Harvard Online — Data Science: Productivity Tools](https://harvardonline.harvard.edu/course/data-science-productivity-tools)
+
+#### 6. Data Science: Wrangling
+
+**Recorded date:** September 2025  
+**Reference course:** HarvardX — Data Science: Wrangling  
+**Field:** Data Science — Data Cleaning, Transformation, and Preparation
+
+**Description:** Methods to import, organize, clean, and transform datasets for analysis. Topics include data manipulation in R, the `dplyr` package, tidy data, string processing, and dates and times.
+
+**Knowledge and Skills Developed:** Practical study can develop the ability to identify data-quality issues, transform datasets, and prepare information for visualization, statistical analysis, and machine learning.
+
+**Reference:** [Harvard Online — Data Science: Wrangling](https://harvardonline.harvard.edu/course/data-science-wrangling)
+
+#### 7. Data Science: Linear Regression
+
+**Recorded date:** January 2026  
+**Reference course:** HarvardX — Data Science: Linear Regression  
+**Field:** Statistics — Regression Analysis and Predictive Modeling
+
+**Description:** Foundations and applications of linear regression for examining relationships between variables. Topics include simple and multiple regression, coefficients, explanatory variables, prediction, confounding, and interpreting models in R.
+
+**Knowledge and Skills Developed:** Comprehensive study can support formulation and interpretation of regression models, analysis of statistical relationships, and recognition of confounding and model assumptions.
+
+**Reference:** [Harvard Online — Data Science: Linear Regression](https://harvardonline.harvard.edu/course/data-science-linear-regression)
+
+#### 8. Data Science: Building Machine Learning Models
+
+**Recorded date:** May 2026  
+**Reference course:** HarvardX — Data Science: Building Machine Learning Models  
+**Field:** Artificial Intelligence — Machine Learning and Predictive Analytics
+
+**Description:** Methods for developing and evaluating machine learning models using R. Topics include predictive modeling, cross-validation, model assessment, regularization, and recommendation systems.
+
+**Knowledge and Skills Developed:** Study and exercises can build familiarity with machine learning workflows, evaluation of predictive performance, methods to control overfitting, and applications of statistical learning.
+
+**Reference:** [Harvard Online — Data Science: Building Machine Learning Models](https://harvardonline.harvard.edu/course/data-science-machine-learning-models)
+
+#### 9. Data Science: Capstone
+
+**Recorded date:** September 2026  
+**Reference course:** HarvardX — Data Science: Capstone  
+**Field:** Applied Data Science — Integrated Analytical Projects
+
+**Description:** An integrative course designed to apply the program's concepts to a practical data science problem, bringing together data preparation, visualization, inference, regression, machine learning, and reproducible computational analysis.
+
+**Knowledge and Skills Developed:** Completion of the associated project can develop the ability to integrate quantitative and computational methods, organize a data science workflow, interpret results, and communicate findings. This description does not claim verified completion of an individual capstone project.
+
+**Reference:** [Harvard Online — Data Science: Capstone](https://harvardonline.harvard.edu/course/data-science-capstone)
+
+### Inventory Summary
+
+| Metric | Count |
+|---|---:|
+| Independent studies recorded | 9 |
+| Entries with one reference | 9 |
+| Entries with two references | 0 |
+| Total course references | 9 |
+| Period covered by personal records | 2024–2026 |
+
+### Scope and Transparency
+
+- **Source of content:** Official Harvard Online course pages and the HarvardX Data Science Professional Certificate overview on edX.
+- **Source of dates:** Personal learning records, verified by the author; these are dates of independent study, not dates of certificate issuance.
+- **Learning format:** Independent learning using materials available through the edX free audit track.
+- **Access limitations:** Free audit access may be limited in duration and may not include all assessments.
+- **Learning outcomes:** Potential outcomes of study and exercises, not confirmation of individual grades or assessments.
+- **Certification:** No verified certificates, academic credit, or award of the Professional Certificate are claimed.
+- **Academic status:** These studies do not imply formal admission to Harvard University.
+- **References:** Nine official Harvard Online course links and two institutional program references.
+
+**Institutional sources:** [Harvard Online — Data Science](https://harvardonline.harvard.edu/program/data-science) · [edX — HarvardX Data Science Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-data-science)
 
 ---
 
